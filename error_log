@@ -1,0 +1,1 @@
+[17-Dec-2015 12:46:35 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rmas2784/public_html/formulario.php:11) in /home/rmas2784/public_html/formulario.php on line 12

@@ -1,0 +1,4407 @@
+/*==============================================================================GRANDES PANTALLAS DE MONITOR */
+@media only screen and (min-device-width: 1920px){
+	/*==============================================================INICIO*/
+		#section0{
+			height: 100% !important;
+			width: 100% !important;
+		}
+		#section0 .slides-navigation {
+			display: none !important;
+		}
+		#section0 .slides-pagination{
+			display: none;
+		}
+		.slider_area{
+			width: 100%;
+		}
+		#slides{
+			width: 100%;
+		}
+		#fullpage footer{
+			padding: 0 !important;
+			position: absolute !important;
+			bottom:0 !important;
+			margin-left: -100% !important;
+			z-index: 2 !important;
+		}
+		#fullpage footer .social_nav{
+			margin-top: 2%;
+		}
+		.footer_left{
+			width: 50% !important;
+			margin-left: 75% !important;
+		}
+		.navbar-right{
+			margin-right: 0 !important;
+			margin-top: 1% !important;
+			width: 101% !important;
+		}
+		#navbar{
+			margin:0 0 0 7% !important;
+		}
+		.navbar-brand > img{
+			margin: -1.2% 0 0 -3% !important;
+		}
+		.navbar-default{
+			height: 80px !important;
+		}
+		#fullpage footer{
+			display: none !important;
+		}
+	/*=======================================================QUIENES SOMOS*/
+		#section1 .slides-navigation {
+			display: block !important;
+		}
+		.fondo_infografia p{
+			line-height: 29px !important;
+	    	width: 64% !important;
+	    	margin-top: 4% !important;
+	   		margin-left: 19% !important;
+		}
+		.fondo_infografia p strong{
+			font-size: 18pt !important;
+		}
+		#section1{
+			width: 100% !important;
+			height: 100% !important;
+			overflow: hidden !important;
+			margin:4% 0 0 0 !important;
+		}
+		#about{
+			width: 100% !important;
+			height: 100% !important;
+		}
+		.template{
+			/*width: 100% !important;*/
+			background-repeat: no-repeat !important;
+		}
+		#contenido_quienessomos {
+		    /*height: 710px !important;*/
+		    margin: 0 auto !important;
+		    overflow: hidden !important;
+		    position: relative !important;
+		}
+		a#izq, a#der{
+			margin: 0% 0 0 0 !important;
+		}
+		#quienes_smart{
+			display: none;
+		}
+	/*============================================================ARQUITECTURA*/
+		.connected-carousels .navigation{
+			width: 100% !important;
+		}
+		.connected-carousels .carousel-navigation{
+			height: 200px !important;
+		}
+		.connected-carousels .carousel-navigation li{
+			margin-left: 68px !important;
+		}
+		.connected-carousels .carousel-navigation li img{
+			width: 200px !important;
+			height: 200px !important; 
+		}
+		.connected-carousels .next-navigation{
+			top: 70px !important;
+			right: -60px !important;
+		}
+		.connected-carousels .prev-navigation{
+			top: 70px !important;
+			left: -40px !important;
+		}
+		.connected-carousels .prev-navigation, .connected-carousels .next-navigation{
+			font:100px/29px Arial, sans-serif !important;
+		}
+		.connected-carousels .carousel-stage{
+			height: 70% !important;
+		}
+		.connected-carousels .carousel-stage .fotos_grande li img {
+			width: 70% !important;
+		}
+		.connected-carousels .prev-stage span, .connected-carousels .next-stage span{
+			font-size: 4em !important;	
+			display: none !important;
+		}
+		.connected-carousels .next-stage span{
+			right: 1200px !important;
+			top: 98% !important;
+		}
+		.connected-carousels .prev-stage span{
+			top: 97.5% !important; 
+		}
+		.remodal-close{
+			margin: 40% 0 0 82% !important;
+		}
+		p#modal1Desc{
+			margin-top: 5px !important;
+		}
+		.wagwep-container ul#portfolio-filter {
+			margin-top: -3px !important;
+		}
+		.remodal-close:before{
+			font-size: 58px !important;
+		}
+		.connected-carousels .carousel ul{
+			/*height: 300px;*/
+		}
+		.stage{
+			left: 0 !important; 
+			width: 100% !important;
+		}
+		.fotos_grande #slider2_iseo, .fotos_grande #slider2_eco104, .fotos_grande #slider2_gaia104, .fotos_grande #slider2_e3, .fotos_grande #slider2_beacuadrado, .fotos_grande #slider2_atio3, .fotos_grande #slider2_ati04, .fotos_grande #slider2_versalles, .fotos_grande #slider2_casa100,  .fotos_grande #slider2_bambu, .fotos_grande #slider2_madiautos_norte, .fotos_grande #slider2_madiautos_morato, .fotos_grande #slider2_une1, .fotos_grande #slider2_une2, .fotos_grande #slider2_chia, .fotos_grande #slider2_pqs, .fotos_grande #slider2_puertolopez{
+			margin: 0.035% 0 0 0.12% !important;
+		}
+		#modal{
+			width: 100%;
+			height: 200%;
+			background-color: rgba(0, 0, 0, 0.8);
+			position: fixed;
+			top: 0;
+			left: 0;
+			z-index: 10000;
+			display: none;
+		}
+		#modal2{
+			width: 100%;
+			height: 200%;
+			background-color: rgba(0, 0, 0, 0.8);
+			position: fixed;
+			top: 0;
+			left: 0;
+			z-index: 10000;
+			display: none;
+		}
+		#botonsmartphone{
+			display: none !important;
+		}
+		.boton_menu_smartphone{
+			display: none;
+		}
+		#contentsmartphone{
+			display: none;
+		}
+		.boton_menu_smartphone2{
+			display: none;
+		}
+		#contentsmartphone2{
+			display: none;
+		}
+	/*========================================================================================DISEÑO GRÁFICO*/
+		.jssorb01{
+			display: none !important;
+		}
+		.jssora05r{
+			margin: 40% 0 0 203% !important;
+		}
+		.jssora05l{
+			margin: 43% 0 0 -12% !important;
+		}
+		#slider2_container2, #slider2_container, #slider2_container3{
+			display: block !important;
+		}
+		#modal2 .stage{
+			height: 1200px;
+			width: 100% !important;
+		}
+		#modal2 .remodal-close{
+			margin: 6% 0 0 79% !important;
+		}
+		/*#dg_eco104, #dg_gaia104, #dg_e3, #dg_eco104 div, #dg_gaia104 div, #dg_e3 div, #dg_eco104 div img, #dg_gaia104 div img, #dg_e3 div img,#slider2_container, #slider2_container2, #slider2_container3{
+			width: 1500px !important;
+			height: 843px !important;
+		}
+		.carousel_eco104 div, .carousel_e3 div, .carousel_gaia104 div{
+			width: 1500px !important;
+			height: 843px !important;
+		}*/
+}
+/*====================================================================================PC PEQUEÑO Y PORTÁTILES*/
+@media only screen and (min-device-width: 1280px) and (max-device-width: 1919px) {
+	#section0{
+		height: 100% !important;
+	}
+	#section1{
+		width: 100% !important;
+		height: 100% !important;
+		overflow: hidden !important;
+	}
+	#about{
+		width: 100% !important;
+		height: 100% !important;
+		overflow: hidden !important;
+	}
+	#top-menu{
+		width: 1280px;
+		position: absolute;
+		margin: 20px 0 0 -30px;
+	}
+	.navbar-brand img{
+	 	margin: -20px 0 0 1080px !important;
+	}
+	.slider_area{
+		width: 100% !important;
+	}
+	#section0 .slides-navigation {
+		display: none !important;
+	}
+	#section1 .slides-navigation {
+		display: block !important;
+	}
+	.slides-pagination{
+		display: block !important;
+		margin: 0 0 0 -14.6% !important;
+	}
+	#slides{
+		width: 100%;
+	}
+	#fullpage footer{
+		padding: 0 !important;
+		position: absolute !important;
+		bottom:0 !important;
+		margin-left: -100% !important;
+		z-index: 2 !important;
+	}
+	#fullpage footer .social_nav{
+		margin-top: 2%;
+	}
+	/*================================================QUIENES SOMOS*/
+	#quienes_smart{
+		display: none;
+	}
+	.template{
+		width: 100% !important;
+		background-repeat: no-repeat !important;
+	}
+	.img_template{
+		width: 357px !important;
+		height: 273px !important;
+		background-size: 100%;
+	}
+	#contenido_quienessomos {
+	    height: 500px !important;
+	    margin: 0 auto !important;
+	    overflow: hidden !important;
+	    position: relative !important;
+	}
+	a#izq, a#der{
+		margin: 18% 0 0 0 !important;
+	}
+	#avatar1{
+		width: 72px !important;
+	    height: 88px !important;
+	    position: absolute !important;
+	    margin: 7.3% 0 0 11% !important;
+	}
+	#avatar2{
+		width: 73px !important;
+	    height: 91px !important;
+	    position: absolute !important;
+	    margin: 5.3% 0 0 17% !important;
+	}
+	#avatar3{
+		width: 94px !important;
+	    height: 89px !important;
+	    position: absolute !important;
+	    margin: 4% 0 0 24% !important;
+	}
+	#avatar4{
+		width: 75px !important;
+	    height: 92px !important;
+	    position: absolute !important;
+	    margin: 2.4% 0 0 32% !important;
+	}
+	#avatar5{
+		width: 65px !important;
+	    height: 116px !important;
+	    position: absolute !important;
+	    margin: 2.2% 0 0 39% !important;
+	}
+	#avatar6{
+		width: 104px !important;
+	    height: 88px !important;
+	    position: absolute !important;
+	    margin: 1.6% 0 0 45% !important;
+	}
+	#avatar7{
+		width: 68px !important;
+	    height: 93px !important;
+	    position: absolute !important;
+	    margin: 1.5% 0 0 54% !important;
+	}
+	#avatar8{
+		width: 94px !important;
+	    height: 93px !important;
+	    position: absolute !important;
+	    margin: 2.2% 0 0 60% !important;
+	}
+	#avatar9{
+		width: 94px !important;
+	    height: 91px !important;
+	    position: absolute !important;
+	    margin: 3.5% 0 0 68% !important;
+	}
+	#avatar10{
+		width: 77px !important;
+	    height: 124px !important;
+	    position: absolute !important;
+	    margin: 5% 0 0 76% !important;
+	}
+	#avatar11{
+		width: 69px !important;
+	    height: 90px !important;
+	    position: absolute !important;
+	    margin: 6.5% 0 0 82% !important;
+	}
+	#world{
+		margin: 5% 0 0 1% !important;
+	}
+	/*==========================================================================================ARQUITECTURA*/
+	#section2{
+		margin-top: 15%;
+		margin-left: 18%;
+		height: 100% !important;
+	}
+	.counter_section{
+		min-height: 439px !important;
+		width: 780px !important;
+		position: absolute;
+		margin:-2.6% 0 0 -18.7%;
+	}
+	.wagwep-container ul#portfolio-filter{
+		width:637px !important;
+		margin-top: 38% !important;
+		margin-left: 4% !important;
+		display: inline-flex !important;
+	}
+	.wagwep-container{
+		margin: -14% 0 0 -30% !important;
+	}
+	.wagwep-container ul#portfolio-filter li{
+		width: 217px !important;
+		margin-left: 2px !important;
+	}
+	#carrusel-inicio{
+		margin: 0 0 0 -28% !important;
+		width: 667px !important;
+	}
+	.connected-carousels .navigation{
+		width:62% !important;
+	}
+	.connected-carousels .carousel-stage .fotos_grande li img {
+		width: 34% !important;
+	}
+	p#modal1Desc{
+		display: none !important;
+	}
+	.contenedor_botones{
+		width: 160px !important;
+		margin: -57.3% 0 0 -6% !important;
+		display: none !important;
+	}
+	.connected-carousels .prev-stage, .connected-carousels .next-stage{
+		display: none !important;
+	}
+	.connected-carousels .prev-stage span{
+		margin: 68% 0 0 0 !important;
+	}
+	.remodal .connected-carousels .stage{
+		width: 115% !important;
+		margin: -5.9% 0 0 -17.5% !important;
+	}
+	#modal1Title{
+		display: none !important;
+	}
+	#modal{
+		width: 100%;
+		height: 200%;
+		background-color: rgba(0, 0, 0, 0.8);
+		position: fixed;
+		top: 0;
+		left: 0;
+		z-index: 10000;
+		display: none;
+	}
+	.fotos_grande #slider2_iseo, .fotos_grande #slider2_iseo #iseo, .fotos_grande #slider2_iseo #iseo img, .fotos_grande #slider2_eco104, .fotos_grande #slider2_eco104 #eco104, .fotos_grande #slider2_eco104 #eco104 img, .fotos_grande #slider2_gaia104, .fotos_grande #slider2_gaia104 #gaia104, .fotos_grande #slider2_gaia104 #gaia104 img, .fotos_grande #slider2_e3, .fotos_grande #slider2_e3 #e3, .fotos_grande #slider2_e3 #e3 img, .fotos_grande #slider2_beacuadrado, .fotos_grande #slider2_beacuadrado #beacuadrado, .fotos_grande #slider2_beacuadrado #beacuadrado img, .fotos_grande #slider2_atio3, .fotos_grande #slider2_atio3 #atio3, .fotos_grande #slider2_atio3 #atio3 img, .fotos_grande #slider2_ati04, .fotos_grande #slider2_ati04 #ati04, .fotos_grande #slider2_ati04 #ati04 img, .fotos_grande #slider2_versalles, .fotos_grande #slider2_versalles #versalles, .fotos_grande #slider2_versalles #versalles img, .fotos_grande #slider2_casa100, .fotos_grande #slider2_casa100 #casa100, .fotos_grande #slider2_casa100 #casa100 img, .fotos_grande #slider2_bambu, .fotos_grande #slider2_bambu #bambu, .fotos_grande #slider2_bambu #bambu img, .fotos_grande #slider2_madiautos_norte, .fotos_grande #slider2_madiautos_norte #madiautosnorte, .fotos_grande #slider2_madiautos_norte #madiautosnorte img, .fotos_grande #slider2_madiautos_morato, .fotos_grande #slider2_madiautos_morato #madiautos_morato, .fotos_grande #slider2_madiautos_morato #madiautos_morato img, .fotos_grande #slider2_une1, .fotos_grande #slider2_une1 #une1, .fotos_grande #slider2_une1 #une1 img, .fotos_grande #slider2_une2, .fotos_grande #slider2_une2 #une2, .fotos_grande #slider2_une2 #une2 img, .fotos_grande #slider2_chia, .fotos_grande #slider2_chia #chia, .fotos_grande #slider2_chia #chia img, .fotos_grande #slider2_pqs, .fotos_grande #slider2_pqs #pqs, .fotos_grande #slider2_pqs #pqs img, .fotos_grande #slider2_puertolopez, .fotos_grande #slider2_puertolopez #puertolopez, .fotos_grande #slider2_puertolopez #puertolopez img{
+		width: 1225px !important;
+		height: 688px !important;
+		
+	}
+	.fotos_grande iframe{
+		width: 1225px !important;
+		height: 688px !important;
+	}
+	#modal .connected-carousels {
+		width: 100% !important;
+		margin-top: 114px !important;
+		margin-left: -123px !important;
+	}
+	#modal .connected-carousels .stage{
+		width: 100% !important;
+	}
+	#modal .remodal-close{
+		margin:0 !important;
+		display: none !important;
+	}
+	#botonsmartphone{
+		display: block !important;
+	}
+	.boton_menu_smartphone {
+		width: 99px;
+		height: 24px;
+		border:1px solid #fff;
+		border-radius: 10px;
+		background: #000;
+		opacity: 0.5;
+		color: rgba(237,50,54,1);
+		position: absolute;
+		z-index: 1;
+		margin: -28% 0 0 9%;
+	}
+	.boton_menu_smartphone2{
+		width: 99px;
+		height: 24px;
+		border:1px solid #fff;
+		border-radius: 10px;
+		background: #000;
+		opacity: 0.5;
+		color: rgba(237,50,54,1);
+		position: absolute;
+		z-index: 1;
+		margin: -12% 0 0 9%;
+	}
+	#contentsmartphone{
+		width: 550px;
+		height: 300px;
+		position: absolute;
+		margin-top: -27%;
+		margin-left: -90%;
+		background: #000;
+		opacity: 0.8;
+		border-radius: 0 50px 0 0;
+	}
+	#contentsmartphone2{
+		width: 400px;
+		height: 100px;
+		position: absolute;
+		margin-top: -10%;
+		margin-left: -90%;
+		background: #000;
+		opacity: 0.8;
+		border-radius: 0 50px 50px 0;
+	}
+	#contentsmartphone .remodal-confirm, #contentsmartphone2 #close_option{
+		margin: 10px 0 0 10px !important;
+	}
+	#contentsmartphone #parrafosmartphone{
+		margin-left: 2% !important;
+		margin-top: 0 !important; 
+		width: 95% !important;
+	}
+	#contentsmartphone #titulosmartphone, #contentsmartphone2 #close_option{
+		margin-top: 0 !important;
+		margin-left: 0 !important;
+	}
+	#contentsmartphone #close_option, #contentsmartphone2 #close_option{
+		position: absolute !important;
+		margin: 0% 0 0 110% !important;
+		display: block !important;
+	}
+	#contentsmartphone .remodal-close:before, #contentsmartphone2 #close_option{
+		font-size: 50px !important;
+	}
+	#contentsmartphone2 .remodal-confirm{
+		margin-left: 4% !important;
+	}
+	#contentsmartphone2 #titulosmartphone{
+		margin-left: -49% !important;
+	}
+	#contentsmartphone2 .remodal-close:before{
+		font-size: 50px !important;
+	}
+	.stage{
+		top: -37px !important;
+	}
+	/*===========================================================================DISEÑO GRÁFICO*/
+	#Stage{
+		/*margin: 0 0 0 45% !important;*/
+	}
+	.puntero_grafico{
+		margin-top: -19.55% !important;
+	}
+	#prueba_animacion{
+		height: 100% !important;
+	}
+	.espacio_galeria{
+		height: 650px !important;
+		width: 100% !important;
+		position: absolute !important;
+		margin:-48.5% 0 0 45% !important;
+	}
+	#slider2_container2, #slider2_container, #slider2_container3{
+		margin: 18% 0 0 0% !important;
+		position: absolute !important;
+	}
+	.jssorb01{
+		display: none !important;
+	}
+	.jssora05r{
+		margin: 93% 0 0 20% !important;
+	}
+	.jssora05l{
+		margin: 95.6% 0 0 1% !important;
+	}
+	#crossclose{
+		margin: 44% 0 0 94% !important;
+	}
+	.flow-wrapper{
+		margin: 8% 0px 0px 23% !important;
+	}
+	#modal2{
+		width: 100%;
+		height: 200%;
+		background-color: rgba(0, 0, 0, 0.8);
+		position: fixed;
+		top: 0;
+		left: 0;
+		z-index: 10000;
+		display: none;
+	}
+	#slider2_container2, #slider2_container, #slider2_container3{
+		display: block !important;
+	}
+	#modal2 .stage{
+		height: 1000px;
+		width: 100% !important;
+		left: 3% !important;
+	}
+	#modal2 .remodal-close{
+		margin: 10% 0 0 94% !important;
+	}
+	#dg_eco104, #dg_gaia104, #dg_e3, #dg_eco104 div, #dg_gaia104 div, #dg_e3 div, #dg_eco104 div img, #dg_gaia104 div img, #dg_e3 div img,#slider2_container, #slider2_container2, #slider2_container3{
+		width: 1200px !important;
+		height: 550px !important;
+	}
+	.carousel_eco104 div, .carousel_e3 div, .carousel_gaia104 div{
+		width: 1200px !important;
+		height: 550px !important;
+	}
+	#modal2 .connected-carousels .carousel-stage{
+		height: 100% !important;
+	}
+	/*========================================================================================DISEÑO WEB*/
+	#section4 #diseno_web p{
+		width: 90%;
+		margin-left: 7%;
+	}
+	#section4 #diseno_web .intermitente{
+		margin-top: 4.3%;
+	}
+	#section4 #diseno_web .intermitente2{
+		margin-top: 2.1%;
+	}
+	#section4 #diseno_web .intermitente3{
+		margin: 19% 0 0 0;
+	}
+	#section4 #diseno_web #frame1 {
+		width: 400px;
+		height: 200px;
+	}
+	#section4 #diseno_web #frame2 {
+		width: 400px;
+		height: 200px;
+	}
+	#section4 #diseno_web #tributar {
+		width: 400px;
+		height: 200px;
+	}
+	#section4 #diseno_web #hache {
+		width: 400px;
+		height: 200px;
+	}
+	/*========================================================================================VENTAS*/
+	#section5 #banner_venta1{
+		background-size: 100% !important;
+		width: 73% !important;
+		background-repeat: no-repeat !important;
+		margin: -5% 0 0 14% !important;
+	}
+	#section5 {
+		width: 100% !important;
+		height: 100% !important;
+	}
+	/*========================================================================================CONTACTO*/
+	#section6{
+		width: 100% !important;
+		height: 100% !important;
+	}
+	#section6 #contact{
+		margin:0 0 0 0% !important;
+	}
+	#section6 #contact p{
+		margin: -29% 0 0 229px !important;
+	}
+	#section6 #contact form{
+		margin: -16% 0 0 50px !important;
+	}
+	#section6 #contact input{
+		margin-bottom: 2% !important;
+	}
+	#section6 #contact iframe{
+		height: 570px !important;
+	}
+	#footer{
+		padding: 6px 0 0 0 !important;
+	}
+	#section6 .iconmaps{
+		margin: 0% 0 0 18% !important;
+	}
+	#section6 #lineas_contacto{
+		margin: -30% 0 0 19.5% !important;
+	}
+}
+/*============================================================================================MINI PORTÁTILES*/
+@media only screen and (min-device-width: 1025px) and (max-device-width: 1279px){
+	/*============================================================================INICIO*/
+	#slides{
+		width: 100%;
+	}
+	#fullpage footer{
+		display: none !important;
+	}
+	#fullpage footer .social_nav{
+		margin-top: 2%;
+	}
+	
+	#top-menu{
+		width: 100% !important;
+		position: absolute !important;
+		margin: 1% 0 0 0 !important;
+	}
+	.navbar-brand img{
+	 	display: block !important;
+	 	margin: -1.7% 0 0 -2% !important;
+	}
+	.slider_area{
+		width: 100% !important;
+	}
+	#section0 {
+		height: 100% !important;
+	}
+	#section0 .slides-navigation {
+		display: none !important;
+	}
+	/*============================================================================QUIENES SOMOS*/
+	#section1 .slides-navigation{
+		display: block !important;
+	}
+	.template{
+		width: 100% !important;
+		background-repeat: no-repeat !important;
+		/*margin: 24% 0 0 0 !important;*/
+	}
+	#section1 .slides-navigation{
+	    width: 100% !important;
+	    height: 400px !important;
+	    margin: 0 auto !important;
+	    overflow: hidden !important;
+	    position: relative !important;
+	}
+	a#izq, a#der{
+		width: 50px !important;
+		height: 50px !important;
+		margin: 18% 0 0 0 !important;
+	}
+	#about{
+		width: 100% !important;
+		height: 100% !important;
+		overflow: hidden !important;
+	}
+	#section1{
+		width: 100% !important;
+		height: 100% !important;
+	}
+	.fondo_infografia p{
+		font-size: 11pt !important;
+		margin: 8% 0 0px 4%!important;
+		width: 90% !important;
+	}
+	#avatar1{
+		width: 72px !important;
+	    height: 88px !important;
+	    position: absolute !important;
+	    margin: 9% 0 0 10% !important;
+	}
+	#avatar2{
+		width: 73px !important;
+	    height: 91px !important;
+	    position: absolute !important;
+	    margin: 7% 0 0 16% !important;
+	}
+	#avatar3{
+		width: 94px !important;
+	    height: 89px !important;
+	    position: absolute !important;
+	    margin: 6% 0 0 23% !important;
+	}
+	#avatar4{
+		width: 75px !important;
+	    height: 92px !important;
+	    position: absolute !important;
+	    margin: 3.7% 0 0 32% !important;
+	}
+	#avatar5{
+		width: 65px !important;
+	    height: 116px !important;
+	    position: absolute !important;
+	    margin: 3.7% 0 0 39% !important;
+	}
+	#avatar6{
+		width: 104px !important;
+	    height: 88px !important;
+	    position: absolute !important;
+	    margin: 2.9% 0 0 45% !important;
+	}
+	#avatar7{
+		width: 68px !important;
+	    height: 93px !important;
+	    position: absolute !important;
+	    margin: 3% 0 0 55% !important;
+	}
+	#avatar8{
+		width: 94px !important;
+	    height: 93px !important;
+	    position: absolute !important;
+	    margin: 4.3% 0 0 62% !important;
+	}
+	#avatar9{
+		width: 94px !important;
+	    height: 91px !important;
+	    position: absolute !important;
+	    margin: 6.4% 0 0 71% !important;
+	}
+	#avatar10{
+		width: 77px !important;
+	    height: 124px !important;
+	    position: absolute !important;
+	    margin: 7.5% 0 0 80% !important;
+	}
+	#avatar11{
+		width: 69px !important;
+	    height: 90px !important;
+	    position: absolute !important;
+	    margin: 9.7% 0 0 87% !important;
+	}
+	#world{
+		margin: 7% 0 0 1% !important;
+	}
+	#espacio12{
+		margin-top: -72px !important;
+	}
+	#icono_home, .icono_home-2{
+		display: none !important;
+	}
+	#top-menu li a.ini{
+		display: none !important;
+	}
+	.slides-pagination{
+		display: none !important;
+	}
+	#quienes_smart{
+		display: none;
+	}
+	.img_template{
+		width: 327px !important;
+	    height: 243px !important;
+	    background-size: 100% !important;
+	}
+	/*==========================================================================================ARQUITECTURA*/
+	#section2{
+		margin-top: 18%;
+	    margin-left: 1%;
+	    height: 100% !important;
+	}
+	.counter_section{
+		min-height: 439px !important;
+		width: 780px !important;
+		position: absolute;
+		margin:-2.6% 0 0 -18.7%;
+	}
+	.wagwep-container ul#portfolio-filter{
+		width:637px !important;
+		margin-top: 43% !important;
+		display: inline-flex !important;
+	}
+	.wagwep-container{
+		margin: -14% 0 0 -30% !important;
+	}
+	.wagwep-container ul#portfolio-filter li{
+		width: 217px !important;
+		margin-left: 2px !important;
+	}
+	#carrusel-inicio{
+		margin: 0 0 0 -34% !important;
+		width: 667px !important;
+	}
+	.connected-carousels .navigation{
+		width:62% !important;
+	}
+	.connected-carousels .carousel-stage .fotos_grande li img {
+		width: 34% !important;
+	}
+	p#modal1Desc{
+		display: none !important;
+	}
+	.contenedor_botones{
+		width: 160px !important;
+		margin: -57.3% 0 0 -6% !important;
+		display: none !important;
+	}
+	.connected-carousels .prev-stage, .connected-carousels .next-stage{
+		display: none !important;
+	}
+	.connected-carousels .prev-stage span{
+		margin: 68% 0 0 0 !important;
+	}
+	.remodal .connected-carousels .stage{
+		width: 115% !important;
+		margin: -5.9% 0 0 -17.5% !important;
+	}
+	#modal1Title{
+		display: none !important;
+	}
+	#modal{
+		width: 100%;
+		height: 200%;
+		background-color: rgba(0, 0, 0, 0.8);
+		position: fixed;
+		top: 0;
+		left: 0;
+		z-index: 10000;
+		display: none;
+	}
+	.fotos_grande #slider2_iseo, .fotos_grande #slider2_iseo #iseo, .fotos_grande #slider2_iseo #iseo img, .fotos_grande #slider2_eco104, .fotos_grande #slider2_eco104 #eco104, .fotos_grande #slider2_eco104 #eco104 img, .fotos_grande #slider2_gaia104, .fotos_grande #slider2_gaia104 #gaia104, .fotos_grande #slider2_gaia104 #gaia104 img, .fotos_grande #slider2_e3, .fotos_grande #slider2_e3 #e3, .fotos_grande #slider2_e3 #e3 img, .fotos_grande #slider2_beacuadrado, .fotos_grande #slider2_beacuadrado #beacuadrado, .fotos_grande #slider2_beacuadrado #beacuadrado img, .fotos_grande #slider2_atio3, .fotos_grande #slider2_atio3 #atio3, .fotos_grande #slider2_atio3 #atio3 img, .fotos_grande #slider2_ati04, .fotos_grande #slider2_ati04 #ati04, .fotos_grande #slider2_ati04 #ati04 img, .fotos_grande #slider2_versalles, .fotos_grande #slider2_versalles #versalles, .fotos_grande #slider2_versalles #versalles img, .fotos_grande #slider2_casa100, .fotos_grande #slider2_casa100 #casa100, .fotos_grande #slider2_casa100 #casa100 img, .fotos_grande #slider2_bambu, .fotos_grande #slider2_bambu #bambu, .fotos_grande #slider2_bambu #bambu img, .fotos_grande #slider2_madiautos_norte, .fotos_grande #slider2_madiautos_norte #madiautosnorte, .fotos_grande #slider2_madiautos_norte #madiautosnorte img, .fotos_grande #slider2_madiautos_morato, .fotos_grande #slider2_madiautos_morato #madiautos_morato, .fotos_grande #slider2_madiautos_morato #madiautos_morato img, .fotos_grande #slider2_une1, .fotos_grande #slider2_une1 #une1, .fotos_grande #slider2_une1 #une1 img, .fotos_grande #slider2_une2, .fotos_grande #slider2_une2 #une2, .fotos_grande #slider2_une2 #une2 img, .fotos_grande #slider2_chia, .fotos_grande #slider2_chia #chia, .fotos_grande #slider2_chia #chia img, .fotos_grande #slider2_pqs, .fotos_grande #slider2_pqs #pqs, .fotos_grande #slider2_pqs #pqs img, .fotos_grande #slider2_puertolopez, .fotos_grande #slider2_puertolopez #puertolopez, .fotos_grande #slider2_puertolopez #puertolopez img{
+		width: 1024px !important;
+		height: 600px !important;
+		
+	}
+	.fotos_grande iframe{
+		width: 1024px !important;
+		height: 600px !important;
+	}
+	#modal .connected-carousels {
+		width: 100% !important;
+		margin-top: 114px !important;
+		margin-left: -123px !important;
+	}
+	#modal .connected-carousels .stage{
+		width: 100% !important;
+	}
+	#modal .remodal-close{
+		margin:0 !important;
+		display: none !important;
+	}
+	#botonsmartphone{
+		display: block !important;
+	}
+	.boton_menu_smartphone {
+		width: 99px;
+		height: 24px;
+		border:1px solid #fff;
+		border-radius: 10px;
+		background: #000;
+		opacity: 0.5;
+		color: rgba(237,50,54,1);
+		position: absolute;
+		z-index: 1;
+		margin: -33% 0 0 11%;
+	}
+	.boton_menu_smartphone2{
+		width: 99px;
+		height: 24px;
+		border:1px solid #fff;
+		border-radius: 10px;
+		background: #000;
+		opacity: 0.5;
+		color: rgba(237,50,54,1);
+		position: absolute;
+		z-index: 1;
+		margin: -18% 0 0 11%;
+	}
+	#contentsmartphone{
+		width: 550px;
+		height: 300px;
+		position: absolute;
+		margin-top: -31%;
+		margin-left: -90%;
+		background: #000;
+		opacity: 0.8;
+		border-radius: 0 50px 0 0;
+	}
+	#contentsmartphone2{
+		width: 400px;
+		height: 100px;
+		position: absolute;
+		margin-top: -15%;
+		margin-left: -90%;
+		background: #000;
+		opacity: 0.8;
+		border-radius: 0 50px 50px 0;
+	}
+	#contentsmartphone .remodal-confirm, #contentsmartphone2 #close_option{
+		margin: 10px 0 0 10px !important;
+	}
+	#contentsmartphone #parrafosmartphone{
+		margin-left: 2% !important;
+		margin-top: 0 !important; 
+		width: 95% !important;
+	}
+	#contentsmartphone #titulosmartphone, #contentsmartphone2 #close_option{
+		margin-top: 0 !important;
+		margin-left: 0 !important;
+	}
+	#contentsmartphone #close_option, #contentsmartphone2 #close_option{
+		position: absolute !important;
+		margin: 0% 0 0 110% !important;
+		display: block !important;
+	}
+	#contentsmartphone .remodal-close:before, #contentsmartphone2 #close_option{
+		font-size: 50px !important;
+	}
+	#contentsmartphone2 .remodal-confirm{
+		margin-left: 4% !important;
+	}
+	#contentsmartphone2 #titulosmartphone{
+		margin-left: -33% !important;
+	}
+	#contentsmartphone2 .remodal-close:before{
+		font-size: 50px !important;
+	}
+	/*===========================================================================DISEÑO GRÁFICO*/
+	#Stage{
+		/*margin: 0 0 0 45% !important;*/
+	}
+	.puntero_grafico{
+		margin-top: -19.55% !important;
+	}
+	#prueba_animacion{
+		height: 100% !important;
+	}
+	.espacio_galeria{
+		height: 650px !important;
+		width: 100% !important;
+		position: absolute !important;
+		margin:-48.5% 0 0 56.2% !important;
+	}
+	#slider2_container2, #slider2_container, #slider2_container3{
+		margin: 16% 0 0 0% !important;
+		position: absolute !important;
+	}
+	.jssorb01{
+		display: none !important;
+	}
+	.jssora05r{
+		z-index: -90000000000000 !important;
+		opacity: 0 !important;	
+	}
+	.jssora05l{
+		z-index: -90000000000000 !important;
+		opacity: 0 !important;		
+	}
+	#crossclose{
+		margin: 44% 0 0 94% !important;
+	}
+	.flow-wrapper{
+		margin: 8% 0px 0px 23% !important;
+	}
+	#dg_eco104, #dg_gaia104, #dg_e3, #dg_eco104 div, #dg_gaia104 div, #dg_e3 div, #dg_eco104 div img, #dg_gaia104 div img, #dg_e3 div img,#slider2_container, #slider2_container2, #slider2_container3{
+		width: 960px !important;
+		height: 539px !important;
+	}
+	.carousel_eco104 div, .carousel_e3 div, .carousel_gaia104 div{
+		width: 960px !important;
+		height: 539px !important;
+	}
+	#modal2{
+		width: 100%;
+		height: 200%;
+		background-color: rgba(0, 0, 0, 0.8);
+		position: fixed;
+		top: 0;
+		left: 0;
+		z-index: 10000;
+		display: none;
+	}
+	#slider2_container2, #slider2_container, #slider2_container3{
+		display: block !important;
+	}
+	#modal2 .stage{
+		height: 1000px;
+		width: 100% !important;
+		left: 3% !important;
+	}
+	#modal2 .remodal-close{
+		margin: 10% 0 0 93% !important;
+	}
+	#modal2 .connected-carousels .carousel-stage{
+		height: 100% !important;
+	}
+	/*========================================================================================DISEÑO WEB*/
+	#section4 #diseno_web h1{
+		font-size: 16pt;
+		height: 20px;
+	}
+	#section4 #diseno_web p{
+		width: 90%;
+		margin-left: 7%;
+	}
+	#section4 #diseno_web .intermitente{
+		margin-top: 4%;
+		width: 13px;
+	}
+	#section4 #diseno_web .intermitente2{
+		margin-top: 2.1%;
+		width: 13px;
+	}
+	#section4 #diseno_web .intermitente3{
+		margin: 23% 0 0 0;
+		width: 13px;
+	}
+	#section4 #diseno_web #frame1 {
+		width: 400px;
+		height: 200px;
+	}
+	#section4 #diseno_web #frame2 {
+		width: 400px;
+		height: 200px;
+	}
+	#section4 #diseno_web #tributar {
+		width: 400px;
+		height: 200px;
+	}
+	#section4 #diseno_web #hache {
+		width: 400px;
+		height: 200px;
+	}
+	#section4 #diseno_web #titulo1{
+		font-size: 12pt;
+		height: 20px;
+	}
+	#section4 #diseno_web #titulo2{
+		font-size: 12pt;
+		height: 20px;
+		margin: 21% 0 0 7%;
+	}
+	/*========================================================================================VENTAS*/
+	#section5 #banner_venta1{
+		background-size: 100% !important;
+		width: 50% !important;
+		background-repeat: no-repeat !important;
+		margin: -3% 0 0 2% !important;
+	}
+	/*========================================================================================CONTACTO*/
+	#section6{
+		width: 100% !important;
+		height: 100% !important;
+	}
+	#section6 #contact{
+		margin:0 0 0 0% !important;
+	}
+	#section6 #contact p{
+		margin: -29% 0 0 81% !important;
+	}
+	#section6 #contact form{
+		margin: -16% 0 0 50px !important;
+		width: 530px !important;
+	}
+	#section6 #contact input{
+		margin-bottom: 2% !important;
+	}
+	#section6 #contact iframe{
+		height: 530px !important;
+	}
+	#footer{
+		padding: 6px 0 0 0 !important;
+		width: 100% !important;
+	}
+	#section6 .iconmaps{
+		margin: 0% 0 0 18% !important;
+	}
+	#section6 #lineas_contacto{
+		margin: -30% 0 0 19.5% !important;
+	}
+	#section6 #muestraedificio{
+		margin: -17% 0 0 63% !important;
+	}
+	#section6 input.form-control{
+		width: 45% !important;
+	}
+	#section6 textarea.form-control{
+		width: 100% !important;
+	}
+	#footer .footer_left{
+		margin-left: 77% !important;
+	}
+	#footer .footer_right{
+		margin: 0 0 0 -7% !important;
+	}
+}
+/*===============================================RESOLUCION TABLET (SAMSUNG GALAXY TAB 2 7" y IPAD) LANDSCAPE*/
+@media only screen and (max-device-width: 1024px) and (min-device-width: 768px) and (orientation:landscape){
+	/*==========================================INICIO*/	
+	#fullpage footer{
+		display: none !important;
+	}
+	#status{
+		width: 262px !important;
+		height: 252px !important;
+		background-size: 100% !important;
+	}
+	#icono_home, #icono_quienes, #icono_arquitectura, #icono_diseno, #icono_web, #icono_ventas, #icono_contacto{
+		display: none !important;
+	}
+	.icono_home-2, .icono_quienes-2, .icono_arquitectura-2, .icono_diseno-2, .icono_web-2, .icono_ventas-2, .icono_contacto-2{
+		display: none !important;
+	}
+	#top-menu{
+		width: 800px !important;
+		position: absolute !important;
+		margin: 5px 0 0 110px !important;
+	}
+	.navbar-nav > li{
+		margin:0 3px 0 3px !important;
+	}
+
+	.navbar-brand img{
+	 	display: block !important;
+	 	position: absolute;
+	 	margin: -21px 0 0 40px !important;
+	 	width: 82px !important;
+	 	height: 72px !important;
+	}
+	#top-menu li a.ini{
+		display: none;
+	}
+	.slider_area{
+		width: 100% !important;
+	}
+	.slides-navigation a {
+		display: none !important;
+	}
+	.slides-pagination{
+		display: none !important;
+	}
+	.fondo_infografia{
+		display: none !important;
+	}
+	#section0{
+		height: 100% !important;
+	}
+	#section1{
+		height: 100% !important;
+	}
+	#slides{
+		width: 100%;
+	}
+	#fullpage footer{
+		padding: 0 !important;
+		position: absolute !important;
+		bottom:0 !important;
+		margin-left: -100% !important;
+		z-index: 2 !important;
+	}
+	#fullpage footer .social_nav{
+		margin-top: 2%;
+	}
+	/*======================================================QUIENES SOMOS*/
+	#about{
+		padding: 0 0 0 0 !important;
+		height: 100% !important;
+	}
+	#quienes_smart{
+		width: 100%;
+	}
+	.fondoqssmart{
+		background: url(../img/qssmart_fondo_1024.jpg);
+		width: 100% !important;
+		/*background-size: 100% !important;*/
+		/*background-repeat: no-repeat !important;*/
+	}
+	#cenefa_negra{
+		background: transparent !important;
+	}
+	#iconoqs_smart{
+		display: none !important;
+	}
+	p#txtsmart{
+		color: #383838;
+	    text-align: justify;
+	    width: 94%;
+	    font-size: 9.5pt;
+	    padding-top: 35%;
+	    padding-left: 4.7%;
+		opacity: 0;
+		position: absolute;
+	}
+	p#txtmision {
+		color: #383838;
+	    text-align: center;
+	    width: 94%;
+	    font-size: 9.5pt;
+	    padding-top: 35%;
+	    padding-left: 4.7%;
+		opacity: 0;
+		position: absolute;
+	}
+	p#txtvalores{
+		color: #383838;
+	    text-align: justify;
+	    width: 98%;
+	    font-size: 9.5pt;
+	    padding-top: 35%;
+	    padding-left: 2.7%;
+		opacity: 0;
+		position: absolute;
+	}
+	#lineasmart{
+		background: url(../img/qssmart_linea.png);
+		width: 100%;
+		height: 2px;
+		position: absolute;
+		margin: 20.5% 0 0 0 !important;
+		z-index: 1;
+	}
+	#contenedoravatar{
+	    width: 1024px !important;
+	    height: 330px ;
+	    margin-top: -8%;
+	    overflow: hidden;
+	    position: absolute;
+	}
+	#tirilla{
+		width: 100%;
+		position: absolute;
+		margin-left:0 ;
+		animation-name: carousel;
+		-webkit-animation-name: carousel;
+		transition:all 1s ease;
+		-webkit-transition:all 1s ease;
+		animation-iteration-count:infinite;
+		-webkit-animation-iteration-count:infinite;
+		animation-duration:30s;
+		-webkit-animation-duration:30s;
+	}
+	#smart1{
+		background: url(../img/qssmart1_1.png);
+		width: 167px;
+		height: 171px;
+		position: absolute;
+		margin: 15.4% 0 0 0;
+	}
+	#smart2{
+		background: url(../img/qssmart2_2.png);
+		width: 167px;
+		height: 171px;
+		position: absolute;
+		margin: 15.4% 0 0 167px;
+	}
+	#smart3{
+		background: url(../img/qssmart3_3.png);
+		width: 167px;
+		height: 171px;
+		position: absolute;
+		margin: 15.4% 0 0 334px;
+	}
+	#smart1_2{
+		background: url(../img/qssmart1_1.png);
+		width: 167px;
+		height: 171px;
+		position: absolute;
+		margin: 15.4% 0 0 1837px;
+	}
+	#smart2_2{
+		background: url(../img/qssmart2_2.png);
+		width: 167px;
+		height: 171px;
+		position: absolute;
+		margin: 15.4% 0 0 2004px;
+	}
+	#smart3_2{
+		background: url(../img/qssmart3_3.png);
+		width: 167px;
+		height: 171px;
+		position: absolute;
+		margin: 15.4% 0 0 2171px;
+	}
+	#smart4{
+		background: url(../img/qssmart4_4.png);
+		width: 167px;
+		height: 171px;
+		position: absolute;
+		margin: 15.4% 0 0 501px;
+	}
+	#smart5{
+		background: url(../img/qssmart5_5.png);
+		width: 167px;
+		height: 171px;
+		position: absolute;
+		margin: 15.4% 0 0 668px;
+	}
+	#smart4_2{
+		background: url(../img/qssmart4_4.png);
+		width: 167px;
+		height: 171px;
+		position: absolute;
+		margin: 15.4% 0 0 2338px;
+	}
+	#smart5_2{
+		background: url(../img/qssmart5_5.png);
+		width: 167px;
+		height: 171px;
+		position: absolute;
+		margin: 15.4% 0 0 2505px;
+	}
+	#smart6_2{
+		background: url(../img/qssmart6_6.png);
+		width: 167px;
+		height: 171px;
+		position: absolute;
+		margin: 15.4% 0 0 2672px;
+	}
+	#smart6{
+		background: url(../img/qssmart6_6.png);
+		width: 167px;
+		height: 171px;
+		position: absolute;
+		margin: 15.4% 0 0 835px;
+	}
+	#smart7{
+		background: url(../img/qssmart7_7.png);
+		width: 167px;
+		height: 171px;
+		position: absolute;
+		margin: 15.4% 0 0 1002px;
+	}
+	#smart8{
+		background: url(../img/qssmart8_8.png);
+		width: 167px;
+		height: 171px;
+		position: absolute;
+		margin: 15.4% 0 0 1169px;
+	}
+	#smart9{
+		background: url(../img/qssmart9_9.png);
+		width: 167px;
+		height: 171px;
+		position: absolute;
+		margin: 15.4% 0 0 1336px;
+	}
+	#smart10{
+		background: url(../img/qssmart10_10.png);
+		width: 167px;
+		height: 171px;
+		position: absolute;
+		margin: 15.4% 0 0 1503px;
+	}
+	#smart11{
+		background: url(../img/qssmart11_11.png);
+		width: 167px;
+		height: 171px;
+		position: absolute;
+		margin: 15.4% 0 0 1670px;
+	}
+	#popup1{
+		background: url(../img/qssmart1_1024.jpg);
+		width: 1024px;
+		height: 461px;
+		position: absolute;
+		z-index: 50;
+		margin-top: 13%;
+	}
+	#popup2{
+		background: url(../img/qssmart2_1024.jpg);
+		width: 1024px;
+		height: 461px;
+		position: absolute;
+		z-index: 50;
+		margin-top: 13%;
+	}
+	#popup3{
+		background: url(../img/qssmart3_1024.jpg);
+		width: 1024px;
+		height: 461px;
+		position: absolute;
+		z-index: 50;
+		margin-top: 13%;
+	}
+	#popup4{
+		background: url(../img/qssmart4_1024.jpg);
+		width: 1024px;
+		height: 461px;
+		position: absolute;
+		z-index: 50;
+		margin-top: 13%;
+	}
+	#popup5{
+		background: url(../img/qssmart5_1024.jpg);
+		width: 1024px;
+		height: 461px;
+		position: absolute;
+		z-index: 50;
+		margin-top: 13%;
+	}
+	#popup6{
+		background: url(../img/qssmart6_1024.jpg);
+		width: 1024px;
+		height: 461px;
+		position: absolute;
+		z-index: 50;
+		margin-top: 13%;
+	}
+	#popup7{
+		background: url(../img/qssmart7_1024.jpg);
+		width: 1024px;
+		height: 461px;
+		position: absolute;
+		z-index: 50;
+		margin-top: 13%;
+	}
+	#popup8{
+		background: url(../img/qssmart8_1024.jpg);
+		width: 1024px;
+		height: 461px;
+		position: absolute;
+		z-index: 50;
+		margin-top: 13%;
+	}
+	#popup9{
+		background: url(../img/qssmart9_1024.jpg);
+		width: 1024px;
+		height: 461px;
+		position: absolute;
+		z-index: 50;
+		margin-top: 13%;
+	}
+	#popup10{
+		background: url(../img/qssmart10_1024.jpg);
+		width: 1024px;
+		height: 461px;
+		position: absolute;
+		z-index: 50;
+		margin-top: 13%;
+	}
+	#popup11{
+		background: url(../img/qssmart11_1024.jpg);
+		width: 1024px;
+		height: 461px;
+		position: absolute;
+		z-index: 50;
+		margin-top: 13%;
+	}
+	#popup1_2{
+		background: url(../img/qssmart1_1024.jpg);
+		width: 1024px;
+		height: 461px;
+		position: absolute;
+		z-index: 50;
+		margin-top: 13%;
+	}
+	#popup2_2{
+		background: url(../img/qssmart2_1024.jpg);
+		width: 1024px;
+		height: 461px;
+		position: absolute;
+		z-index: 50;
+		margin-top: 13%;
+	}
+	#popup3_2{
+		background: url(../img/qssmart3_1024.jpg);
+		width: 1024px;
+		height: 461px;
+		position: absolute;
+		z-index: 50;
+		margin-top: 13%;
+	}
+	#popup4_2{
+		background: url(../img/qssmart4_1024.jpg);
+		width: 1024px;
+		height: 461px;
+		position: absolute;
+		z-index: 50;
+		margin-top: 13%;
+	}
+	#popup5_2{
+		background: url(../img/qssmart5_1024.jpg);
+		width: 1024px;
+		height: 461px;
+		position: absolute;
+		z-index: 50;
+		margin-top: 13%;
+	}
+	#popup6_2{
+		background: url(../img/qssmart6_1024.jpg);
+		width: 1024px;
+		height: 461px;
+		position: absolute;
+		z-index: 50;
+		margin-top: 13%;
+	}
+	.close_popup{
+		width: 3%;
+		margin:6% 0 0 6%;
+		position: absolute;
+		z-index: 100;
+	}
+	#txtsmart strong , #txtmision strong, #txtvalores strong{
+		color:#66c7cd;
+	}
+	#txtmision span, #txtvalores span{
+		color:rgba(237,50,54,1);
+	}
+	#iconoqs_smart{
+		background: url(../img/quienesrojo.png);
+		width: 34px;
+		height: 34px;
+		background-size: 100%;
+		margin:2% 0 0 85%;
+		position: absolute;
+	}
+	#contenedoredificio{
+	    width: 1536px;
+	    height: 240px;
+	    background-size: 100%;
+	    position: absolute;
+	    margin-left: 0%;
+	    animation-name:carousel_edificio;
+	    -webkit-animation-name:carousel_edificio;
+	    -moz-animation-name:carousel_edificio;
+	    -o-animation-name:carousel_edificio;
+	    -ms-animation-name:carousel_edificio;
+	    animation-duration:20s;
+	    -webkit-animation-duration:20s;
+	    -moz-animation-duration:20s;
+	    -o-animation-duration:20s;
+	    -ms-animation-duration:20s;
+	    animation-iteration-count:infinite;
+	    -webkit-animation-iteration-count:infinite;
+	    -moz-animation-iteration-count:infinite;
+	    -o-animation-iteration-count:infinite;
+	    -ms-animation-iteration-count:infinite;
+	    transition:all 1s ease;
+		-webkit-transition:all 1s ease;
+		-moz-transition:all 1s ease;
+		-o-transition:all 1s ease;
+		-ms-transition:all 1s ease;
+	}
+	#contenidodeedificio{
+		width: 1024px;
+		position: absolute;
+		overflow: hidden;
+		height: 312px;
+		margin-top: 40%;
+	}
+	#edificio1{
+		background: url(../img/edificio1.png);
+		width: 256px;
+		height: 235px;
+		position: absolute;
+		background-size: 100%;
+		margin: 2.4% 0 0 0;
+	}
+	#edificio2{
+		background: url(../img/edificio2.png);
+		width: 256px;
+		height: 235px;
+		position: absolute;
+		background-size: 100%;
+		margin: 2.4% 0 0 256px;
+	}
+	#edificio3{
+		background: url(../img/edificio3.png);
+		width: 256px;
+		height: 235px;
+		position: absolute;
+		background-size: 100%;
+		margin: 2.4% 0 0 512px;
+	}
+	#edificio4{
+		background: url(../img/edificio4.png);
+		width: 256px;
+		height: 235px;
+		position: absolute;
+		background-size: 100%;
+		margin: 2.4% 0 0 768px;
+	}
+	#edificio5{
+		background: url(../img/edificio5.png);
+		width: 256px;
+		height: 235px;
+		position: absolute;
+		background-size: 100%;
+		margin: 2.4% 0 0 1024px;
+	}
+	#edificio6{
+		background: url(../img/edificio6.png);
+		width: 256px;
+		height: 235px;
+		position: absolute;
+		background-size: 100%;
+		margin: 2.4% 0 0 1280px;
+	}
+	#edificio1_2{
+		background: url(../img/edificio1.png);
+		width: 256px;
+		height: 235px;
+		position: absolute;
+		background-size: 100%;
+		margin: 2.4% 0 0 1536px;
+	}
+	#edificio2_2{
+		background: url(../img/edificio2.png);
+		width: 256px;
+		height: 235px;
+		position: absolute;
+		background-size: 100%;
+		margin: 2.4% 0 0 1792px;
+	}
+	#edificio3_2{
+		background: url(../img/edificio3.png);
+		width: 256px;
+		height: 235px;
+		position: absolute;
+		background-size: 100%;
+		margin: 2.4% 0 0 2048px;
+	}
+	#edificio4_2{
+		background: url(../img/edificio4.png);
+		width: 256px;
+		height: 235px;
+		position: absolute;
+		background-size: 100%;
+		margin: 2.4% 0 0 2304px;
+	}
+	/*==========================================================================================ARQUITECTURA*/
+	#section2{
+		height: 100% !important;
+		margin-top: 5% !important;
+	}
+	.counter_section{
+		min-height: 439px !important;
+		width: 780px !important;
+		position: absolute;
+		margin:-2.6% 0 0 -18.7%;
+	}
+	.wagwep-container ul#portfolio-filter{
+		width:637px !important;
+		margin-top: 42% !important;
+		display: inline-flex !important;
+	}
+	.wagwep-container{
+		margin: -14% 0 0 -30% !important;
+	}
+	.wagwep-container ul#portfolio-filter li{
+		width: 217px !important;
+		margin-left: 2px !important;
+	}
+	#carrusel-inicio{
+		margin: 0 0 0 -34% !important;
+		width: 667px !important;
+	}
+	.connected-carousels .navigation{
+		width:62% !important;
+	}
+	.connected-carousels .carousel-stage .fotos_grande li img {
+		width: 34% !important;
+	}
+	p#modal1Desc{
+		display: none !important;
+	}
+	.contenedor_botones{
+		width: 160px !important;
+		margin: -57.3% 0 0 -6% !important;
+		display: none !important;
+	}
+	.connected-carousels .prev-stage, .connected-carousels .next-stage{
+		display: none !important;
+	}
+	.connected-carousels .prev-stage span{
+		margin: 68% 0 0 0 !important;
+	}
+	.remodal .connected-carousels .stage{
+		width: 115% !important;
+		margin: -5.9% 0 0 -17.5% !important;
+	}
+	#modal1Title{
+		display: none !important;
+	}
+	#modal{
+		width: 100%;
+		height: 200%;
+		background-color: rgba(0, 0, 0, 0.8);
+		position: fixed;
+		top: 0;
+		left: 0;
+		z-index: 10000;
+		display: none;
+	}
+	.fotos_grande #slider2_iseo, .fotos_grande #slider2_iseo #iseo, .fotos_grande #slider2_iseo #iseo img, .fotos_grande #slider2_eco104, .fotos_grande #slider2_eco104 #eco104, .fotos_grande #slider2_eco104 #eco104 img, .fotos_grande #slider2_gaia104, .fotos_grande #slider2_gaia104 #gaia104, .fotos_grande #slider2_gaia104 #gaia104 img, .fotos_grande #slider2_e3, .fotos_grande #slider2_e3 #e3, .fotos_grande #slider2_e3 #e3 img, .fotos_grande #slider2_beacuadrado, .fotos_grande #slider2_beacuadrado #beacuadrado, .fotos_grande #slider2_beacuadrado #beacuadrado img, .fotos_grande #slider2_atio3, .fotos_grande #slider2_atio3 #atio3, .fotos_grande #slider2_atio3 #atio3 img, .fotos_grande #slider2_ati04, .fotos_grande #slider2_ati04 #ati04, .fotos_grande #slider2_ati04 #ati04 img, .fotos_grande #slider2_versalles, .fotos_grande #slider2_versalles #versalles, .fotos_grande #slider2_versalles #versalles img, .fotos_grande #slider2_casa100, .fotos_grande #slider2_casa100 #casa100, .fotos_grande #slider2_casa100 #casa100 img, .fotos_grande #slider2_bambu, .fotos_grande #slider2_bambu #bambu, .fotos_grande #slider2_bambu #bambu img, .fotos_grande #slider2_madiautos_norte, .fotos_grande #slider2_madiautos_norte #madiautosnorte, .fotos_grande #slider2_madiautos_norte #madiautosnorte img, .fotos_grande #slider2_madiautos_morato, .fotos_grande #slider2_madiautos_morato #madiautos_morato, .fotos_grande #slider2_madiautos_morato #madiautos_morato img, .fotos_grande #slider2_une1, .fotos_grande #slider2_une1 #une1, .fotos_grande #slider2_une1 #une1 img, .fotos_grande #slider2_une2, .fotos_grande #slider2_une2 #une2, .fotos_grande #slider2_une2 #une2 img, .fotos_grande #slider2_chia, .fotos_grande #slider2_chia #chia, .fotos_grande #slider2_chia #chia img, .fotos_grande #slider2_pqs, .fotos_grande #slider2_pqs #pqs, .fotos_grande #slider2_pqs #pqs img, .fotos_grande #slider2_puertolopez, .fotos_grande #slider2_puertolopez #puertolopez, .fotos_grande #slider2_puertolopez #puertolopez img{
+		width: 1024px !important;
+		height: 600px !important;
+		
+	}
+	.fotos_grande iframe{
+		width: 1024px !important;
+		height: 600px !important;
+	}
+	#modal .connected-carousels {
+		width: 100% !important;
+		margin-top: 114px !important;
+		margin-left: -123px !important;
+	}
+	#modal .connected-carousels .stage{
+		width: 100% !important;
+	}
+	#modal .remodal-close{
+		margin:0 !important;
+		display: none !important;
+	}
+	#botonsmartphone{
+		display: block !important;
+	}
+	.boton_menu_smartphone {
+		width: 99px;
+		height: 24px;
+		border:1px solid #fff;
+		border-radius: 10px;
+		background: #000;
+		opacity: 0.5;
+		color: rgba(237,50,54,1);
+		position: absolute;
+		z-index: 1;
+		margin: -33% 0 0 11%;
+	}
+	.boton_menu_smartphone2{
+		width: 99px;
+		height: 24px;
+		border:1px solid #fff;
+		border-radius: 10px;
+		background: #000;
+		opacity: 0.5;
+		color: rgba(237,50,54,1);
+		position: absolute;
+		z-index: 1;
+		margin: -18% 0 0 11%;
+	}
+	#contentsmartphone{
+		width: 550px;
+		height: 300px;
+		position: absolute;
+		margin-top: -31%;
+		margin-left: -90%;
+		background: #000;
+		opacity: 0.8;
+		border-radius: 0 50px 0 0;
+	}
+	#contentsmartphone2{
+		width: 400px;
+		height: 100px;
+		position: absolute;
+		margin-top: -15%;
+		margin-left: -90%;
+		background: #000;
+		opacity: 0.8;
+		border-radius: 0 50px 50px 0;
+	}
+	#contentsmartphone .remodal-confirm, #contentsmartphone2 #close_option{
+		margin: 10px 0 0 10px !important;
+	}
+	#contentsmartphone #parrafosmartphone{
+		margin-left: 2% !important;
+		margin-top: 0 !important; 
+		width: 95% !important;
+	}
+	#contentsmartphone #titulosmartphone, #contentsmartphone2 #close_option{
+		margin-top: 0 !important;
+		margin-left: 0 !important;
+	}
+	#contentsmartphone #close_option, #contentsmartphone2 #close_option{
+		position: absolute !important;
+		margin: 0% 0 0 110% !important;
+		display: block !important;
+	}
+	#contentsmartphone .remodal-close:before, #contentsmartphone2 #close_option{
+		font-size: 50px !important;
+	}
+	#contentsmartphone2 .remodal-confirm{
+		margin-left: 4% !important;
+	}
+	#contentsmartphone2 #titulosmartphone{
+		margin-left: -33% !important;
+	}
+	#contentsmartphone2 .remodal-close:before{
+		font-size: 50px !important;
+	}
+	/*===========================================================================DISEÑO GRÁFICO*/
+	#Stage{
+		/*margin: 0 0 0 45% !important;*/
+	}
+	.puntero_grafico{
+		margin-top: -19.55% !important;
+	}
+	#prueba_animacion{
+		height: 100% !important;
+	}
+	.espacio_galeria{
+		height: 650px !important;
+		width: 100% !important;
+		position: absolute !important;
+		margin:-48.5% 0 0 56.2% !important;
+	}
+	#slider2_container2, #slider2_container, #slider2_container3{
+		margin: 16% 0 0 0% !important;
+		position: absolute !important;
+	}
+	.jssorb01{
+		display: none !important;
+	}
+	.jssora05r{
+		z-index: -90000000000000 !important;
+		opacity: 0 !important;	
+	}
+	.jssora05l{
+		z-index: -90000000000000 !important;
+		opacity: 0 !important;		
+	}
+	#crossclose{
+		margin: 44% 0 0 94% !important;
+	}
+	.flow-wrapper{
+		margin: 8% 0px 0px 23% !important;
+	}
+	#dg_eco104, #dg_gaia104, #dg_e3, #dg_eco104 div, #dg_gaia104 div, #dg_e3 div, #dg_eco104 div img, #dg_gaia104 div img, #dg_e3 div img,#slider2_container, #slider2_container2, #slider2_container3{
+		width: 960px !important;
+		height: 539px !important;
+	}
+	.carousel_eco104 div, .carousel_e3 div, .carousel_gaia104 div{
+		width: 960px !important;
+		height: 539px !important;
+	}
+	#modal2{
+		width: 100%;
+		height: 200%;
+		background-color: rgba(0, 0, 0, 0.8);
+		position: fixed;
+		top: 0;
+		left: 0;
+		z-index: 10000;
+		display: none;
+	}
+	#slider2_container2, #slider2_container, #slider2_container3{
+		display: block !important;
+	}
+	#modal2 .stage{
+		height: 1000px;
+		width: 100% !important;
+		left: 3% !important;
+	}
+	#modal2 .remodal-close{
+		margin: 10% 0 0 93% !important;
+	}
+	#modal2 .connected-carousels .carousel-stage{
+		height: 100% !important;
+	}
+	#section3{
+		width: 100% !important;
+		height: 768px !important;
+	}
+	/*========================================================================================DISEÑO WEB*/
+	#section4{
+		width: 100% !important;
+		height: 768px !important;
+	}
+	#content_diseno_web{
+		height: 768px !important;
+	}
+	#section4 #diseno_web h1{
+		font-size: 16pt;
+		height: 20px;
+	}
+	#section4 #diseno_web p{
+		width: 90%;
+		margin-left: 7%;
+	}
+	#section4 #diseno_web .intermitente{
+		margin-top: 4%;
+		width: 13px;
+	}
+	#section4 #diseno_web .intermitente2{
+		margin-top: 2.1%;
+		width: 13px;
+	}
+	#section4 #diseno_web .intermitente3{
+		margin: 23% 0 0 0;
+		width: 13px;
+	}
+	#section4 #diseno_web #frame1 {
+		width: 400px;
+		height: 200px;
+	}
+	#section4 #diseno_web #frame2 {
+		width: 400px;
+		height: 200px;
+	}
+	#section4 #diseno_web #tributar {
+		width: 400px;
+		height: 200px;
+	}
+	#section4 #diseno_web #hache {
+		width: 400px;
+		height: 200px;
+	}
+	#section4 #diseno_web #titulo1{
+		font-size: 12pt;
+		height: 20px;
+	}
+	#section4 #diseno_web #titulo2{
+		font-size: 12pt;
+		height: 20px;
+		margin: 21% 0 0 7%;
+	}
+	/*========================================================================================VENTAS*/
+	#section5 #banner_venta1{
+		background-size: 100% !important;
+		width: 45% !important;
+		background-repeat: no-repeat !important;
+		margin: -3% 0 0 4% !important;
+	}
+	/*========================================================================================CONTACTO*/
+	#section6{
+		width: 100% !important;
+		height: 100% !important;
+	}
+	#section6 #contact{
+		margin:0 0 0 0% !important;
+	}
+	#section6 #contact p{
+		margin: -35% 0 0 81% !important;
+	}
+	#section6 #contact form{
+		margin: -13% 0 0 50px !important;
+		width: 530px !important;
+	}
+	#section6 #contact input{
+		margin-bottom: 2% !important;
+	}
+	#section6 #contact iframe{
+		height: 530px !important;
+	}
+	#footer{
+		padding: 6px 0 0 0 !important;
+		width: 100% !important;
+	}
+	#section6 .iconmaps{
+		margin: 0% 0 0 18% !important;
+	}
+	#section6 #lineas_contacto{
+		margin: -30% 0 0 19.5% !important;
+	}
+	#section6 #muestraedificio{
+		margin: -19% 0 0 63% !important;
+	}
+	#section6 input.form-control{
+		width: 45% !important;
+	}
+	#section6 textarea.form-control{
+		width: 100% !important;
+	}
+	#footer .footer_left{
+		margin-left: 77% !important;
+	}
+	#footer .footer_right{
+		margin: 0 0 0 -7% !important;
+	}
+}
+/*=============================================================================RESOLUCION LANDSCAPE 767 - 668*/
+@media only screen and (max-device-width: 767px) and (min-device-width: 668px) and (orientation:landscape){
+	/*==========================================INICIO*/
+	#fullpage footer{
+		display: none !important;
+	}	
+	#top-menu{
+		/*margin: 0 0 0 165px !important;*/
+		width: 100% !important;
+	}
+	#top-menu span{
+		display: none;
+	}
+	#icono_home, #icono_quienes, #icono_arquitectura, #icono_diseno, #icono_web, #icono_ventas, #icono_contacto{
+		margin: -29% 0 0 86% !important;
+	}
+	.nav > li {
+    position: relative !important;
+    display: block !important;
+    margin: 0 0 -13px -38px !important;
+	}
+	.navbar-fixed-top .navbar-collapse, .navbar-fixed-bottom .navbar-collapse {
+    max-height: 350px !important;
+	}
+	.container>.navbar-header, .container-fluid>.navbar-header, .container>.navbar-collapse, .container-fluid>.navbar-collapse {
+    margin-right: -15px;
+    margin-left: 437px !important;
+	}
+	#status{
+		width: 262px !important;
+		height: 252px !important;
+		background-size: 100% !important;
+		margin: -17% 0 0 -16% !important;
+	}
+	.footer_left {
+		margin-left: 0 !important;
+	}
+	.footer_right{
+		width: 14% !important;
+		margin: -6% 0 0 82% !important;
+	}
+	.navbar-brand img{
+	 	display: block !important;
+	 	position: absolute;
+	 	margin:-3% 0 0 -66%  !important;
+	 	width: 82px !important;
+	 	height: 72px !important;
+	}
+	#top-menu li a.ini{
+		display: none;
+	}
+	.slider_area{
+		width: 100% !important;
+	}
+	.slides-navigation{
+		display: none !important;
+	}
+	.slides-pagination{
+		display: none !important;
+	}
+	.fondo_infografia{
+		display: none !important;
+	}
+	#section0{
+		height: 100% !important;
+	}
+	#section1{
+		height: 100% !important;
+	}
+	#fullpage footer{
+		padding: 0 !important;
+		position: absolute !important;
+		bottom:0 !important;
+		margin-left: -100% !important;
+		z-index: 2 !important;
+	}
+	#fullpage footer .social_nav{
+		margin-top: 2%;
+	}
+	/*======================================================QUIENES SOMOS*/
+	#about{
+		padding: 0 0 0 0 !important;
+		height: 100% !important;
+	}
+	#quienes_smart{
+		width: 100%;
+	}
+	.fondoqssmart{
+		background: url(../img/qssmart_fondo_1024.jpg);
+		width: 100% !important;
+		/*background-size: 100% !important;*/
+		/*background-repeat: no-repeat !important;*/
+	}
+	#cenefa_negra{
+		background: transparent !important;
+	}
+	#iconoqs_smart{
+		display: none !important;
+	}
+	p#txtsmart{
+		color: #383838;
+	    text-align: justify;
+	    width: 94%;
+	    font-size: 9.5pt;
+	    padding-top: 9%;
+	    padding-left: 4.7%;
+		opacity: 0;
+		position: absolute;
+	}
+	p#txtmision {
+		color: #383838;
+	    text-align: center;
+	    width: 94%;
+	    font-size: 9.5pt;
+	    padding-top: 9%;
+	    padding-left: 4.7%;
+		opacity: 0;
+		position: absolute;
+	}
+	p#txtvalores{
+		color: #383838;
+	    text-align: justify;
+	    width: 98%;
+	    font-size: 9.5pt;
+	    padding-top: 7%;
+	    padding-left: 2.7%;
+		opacity: 0;
+		position: absolute;
+	}
+	#lineasmart{
+		background: url(../img/qssmart_linea.png);
+		width: 100%;
+		height: 2px;
+		position: absolute;
+		margin: 40.6% 0 0 0 !important;
+		z-index: 1;
+	}
+	#contenedoravatar{
+	    width: 668px !important;
+	    height: 330px ;
+	    margin-top: 5%;
+	    overflow: hidden;
+	    position: absolute;
+	}
+	#tirilla{
+		width: 100%;
+		position: absolute;
+		margin-left:0 ;
+	}
+	#smart1{
+		background: url(../img/qssmart1_1.png);
+		width: 167px;
+		height: 171px;
+		position: absolute;
+		margin: 15.4% 0 0 0;
+	}
+	#smart2{
+		background: url(../img/qssmart2_2.png);
+		width: 167px;
+		height: 171px;
+		position: absolute;
+		margin: 15.4% 0 0 167px;
+	}
+	#smart3{
+		background: url(../img/qssmart3_3.png);
+		width: 167px;
+		height: 171px;
+		position: absolute;
+		margin: 15.4% 0 0 334px;
+	}
+	#smart1_2{
+		background: url(../img/qssmart1_1.png);
+		width: 167px;
+		height: 171px;
+		position: absolute;
+		margin: 15.4% 0 0 1837px;
+	}
+	#smart2_2{
+		background: url(../img/qssmart2_2.png);
+		width: 167px;
+		height: 171px;
+		position: absolute;
+		margin: 15.4% 0 0 2004px;
+	}
+	#smart3_2{
+		background: url(../img/qssmart3_3.png);
+		width: 167px;
+		height: 171px;
+		position: absolute;
+		margin: 15.4% 0 0 2171px;
+	}
+	#smart4{
+		background: url(../img/qssmart4_4.png);
+		width: 167px;
+		height: 171px;
+		position: absolute;
+		margin: 15.4% 0 0 501px;
+	}
+	#smart5{
+		background: url(../img/qssmart5_5.png);
+		width: 167px;
+		height: 171px;
+		position: absolute;
+		margin: 15.4% 0 0 668px;
+	}
+	#smart4_2{
+		background: url(../img/qssmart4_4.png);
+		width: 167px;
+		height: 171px;
+		position: absolute;
+		margin: 15.4% 0 0 2338px;
+	}
+	#smart5_2{
+		background: url(../img/qssmart5_5.png);
+		width: 167px;
+		height: 171px;
+		position: absolute;
+		margin: 15.4% 0 0 2505px;
+	}
+	#smart6_2{
+		background: url(../img/qssmart6_6.png);
+		width: 167px;
+		height: 171px;
+		position: absolute;
+		margin: 15.4% 0 0 2672px;
+	}
+	#smart6{
+		background: url(../img/qssmart6_6.png);
+		width: 167px;
+		height: 171px;
+		position: absolute;
+		margin: 15.4% 0 0 835px;
+	}
+	#smart7{
+		background: url(../img/qssmart7_7.png);
+		width: 167px;
+		height: 171px;
+		position: absolute;
+		margin: 15.4% 0 0 1002px;
+	}
+	#smart8{
+		background: url(../img/qssmart8_8.png);
+		width: 167px;
+		height: 171px;
+		position: absolute;
+		margin: 15.4% 0 0 1169px;
+	}
+	#smart9{
+		background: url(../img/qssmart9_9.png);
+		width: 167px;
+		height: 171px;
+		position: absolute;
+		margin: 15.4% 0 0 1336px;
+	}
+	#smart10{
+		background: url(../img/qssmart10_10.png);
+		width: 167px;
+		height: 171px;
+		position: absolute;
+		margin: 15.4% 0 0 1503px;
+	}
+	#smart11{
+		background: url(../img/qssmart11_11.png);
+		width: 167px;
+		height: 171px;
+		position: absolute;
+		margin: 15.4% 0 0 1670px;
+	}
+	#popup1{
+		background: url(../img/qssmart1_1024.jpg);
+		width: 1024px;
+		height: 461px;
+		position: absolute;
+		z-index: 50;
+		margin-top: 13%;
+	}
+	#popup2{
+		background: url(../img/qssmart2_1024.jpg);
+		width: 1024px;
+		height: 461px;
+		position: absolute;
+		z-index: 50;
+		margin-top: 13%;
+	}
+	#popup3{
+		background: url(../img/qssmart3_1024.jpg);
+		width: 1024px;
+		height: 461px;
+		position: absolute;
+		z-index: 50;
+		margin-top: 13%;
+	}
+	#popup4{
+		background: url(../img/qssmart4_1024.jpg);
+		width: 1024px;
+		height: 461px;
+		position: absolute;
+		z-index: 50;
+		margin-top: 13%;
+	}
+	#popup5{
+		background: url(../img/qssmart5_1024.jpg);
+		width: 1024px;
+		height: 461px;
+		position: absolute;
+		z-index: 50;
+		margin-top: 13%;
+	}
+	#popup6{
+		background: url(../img/qssmart6_1024.jpg);
+		width: 1024px;
+		height: 461px;
+		position: absolute;
+		z-index: 50;
+		margin-top: 13%;
+	}
+	#popup7{
+		background: url(../img/qssmart7_1024.jpg);
+		width: 1024px;
+		height: 461px;
+		position: absolute;
+		z-index: 50;
+		margin-top: 13%;
+	}
+	#popup8{
+		background: url(../img/qssmart8_1024.jpg);
+		width: 1024px;
+		height: 461px;
+		position: absolute;
+		z-index: 50;
+		margin-top: 13%;
+	}
+	#popup9{
+		background: url(../img/qssmart9_1024.jpg);
+		width: 1024px;
+		height: 461px;
+		position: absolute;
+		z-index: 50;
+		margin-top: 13%;
+	}
+	#popup10{
+		background: url(../img/qssmart10_1024.jpg);
+		width: 1024px;
+		height: 461px;
+		position: absolute;
+		z-index: 50;
+		margin-top: 13%;
+	}
+	#popup11{
+		background: url(../img/qssmart11_1024.jpg);
+		width: 1024px;
+		height: 461px;
+		position: absolute;
+		z-index: 50;
+		margin-top: 13%;
+	}
+	#popup1_2{
+		background: url(../img/qssmart1_1024.jpg);
+		width: 1024px;
+		height: 461px;
+		position: absolute;
+		z-index: 50;
+		margin-top: 13%;
+	}
+	#popup2_2{
+		background: url(../img/qssmart2_1024.jpg);
+		width: 1024px;
+		height: 461px;
+		position: absolute;
+		z-index: 50;
+		margin-top: 13%;
+	}
+	#popup3_2{
+		background: url(../img/qssmart3_1024.jpg);
+		width: 1024px;
+		height: 461px;
+		position: absolute;
+		z-index: 50;
+		margin-top: 13%;
+	}
+	#popup4_2{
+		background: url(../img/qssmart4_1024.jpg);
+		width: 1024px;
+		height: 461px;
+		position: absolute;
+		z-index: 50;
+		margin-top: 13%;
+	}
+	#popup5_2{
+		background: url(../img/qssmart5_1024.jpg);
+		width: 1024px;
+		height: 461px;
+		position: absolute;
+		z-index: 50;
+		margin-top: 13%;
+	}
+	#popup6_2{
+		background: url(../img/qssmart6_1024.jpg);
+		width: 1024px;
+		height: 461px;
+		position: absolute;
+		z-index: 50;
+		margin-top: 13%;
+	}
+	.close_popup{
+		width: 3%;
+		margin:6% 0 0 6%;
+		position: absolute;
+		z-index: 100;
+	}
+	#txtsmart strong , #txtmision strong, #txtvalores strong{
+		color:#66c7cd;
+	}
+	#txtmision span, #txtvalores span{
+		color:rgba(237,50,54,1);
+	}
+	#iconoqs_smart{
+		background: url(../img/quienesrojo.png);
+		width: 34px;
+		height: 34px;
+		background-size: 100%;
+		margin:2% 0 0 85%;
+		position: absolute;
+	}
+	#contenedoredificio{
+	    background: url(../img/construcciones.png);
+	    width: 100%;
+	    height: 312px;
+	    background-size: 100%;
+	    position: absolute;
+	    background-repeat: no-repeat;
+	    margin-left: -26%;
+	}
+	#contenidodeedificio{
+		display: none;
+		width: 100%;
+		position: absolute;
+		overflow: hidden;
+		height: 312px;
+		margin-top: 22%;
+	}
+	/*=================================================ARQUITECTURA*/
+	.counter_section{
+		min-height: 228px !important;
+		width: 667px !important;
+		position: absolute;
+		margin: -83px 0 0 -15px;
+	}
+	.wagwep-container ul#portfolio-filter{
+		width:637px !important;
+		margin-top: 114px !important;
+		display: inline-flex !important;
+	}
+	.wagwep-container ul#portfolio-filter li{
+		width: 217px !important;
+		margin-left: 2px !important;
+	}
+	#carrusel-inicio{
+		margin: 0 0 0 -14px !important;
+		width: 667px !important;
+	}
+	.connected-carousels .navigation{
+		width:62% !important;
+	}
+	.connected-carousels .carousel-stage .fotos_grande li img {
+		width: 34% !important;
+	}
+	p#modal1Desc{
+		display: none !important;
+	}
+	.contenedor_botones{
+		width: 160px !important;
+		margin: -57.3% 0 0 -6% !important;
+		display: none !important;
+	}
+	.connected-carousels .prev-stage, .connected-carousels .next-stage{
+		display: none !important;
+	}
+	.connected-carousels .prev-stage span{
+		margin: 68% 0 0 0 !important;
+	}
+	.remodal .connected-carousels .stage{
+		width: 115% !important;
+		margin: -5.9% 0 0 -17.5% !important;
+	}
+	#modal1Title{
+		display: none !important;
+	}
+	#modal{
+		width: 100%;
+		height: 200%;
+		background-color: rgba(0, 0, 0, 0.8);
+		position: fixed;
+		top: 0;
+		left: 0;
+		z-index: 10000;
+		display: none;
+	}
+	.fotos_grande #slider2_iseo, .fotos_grande #slider2_iseo #iseo, .fotos_grande #slider2_iseo #iseo img, .fotos_grande #slider2_eco104, .fotos_grande #slider2_eco104 #eco104, .fotos_grande #slider2_eco104 #eco104 img, .fotos_grande #slider2_gaia104, .fotos_grande #slider2_gaia104 #gaia104, .fotos_grande #slider2_gaia104 #gaia104 img, .fotos_grande #slider2_e3, .fotos_grande #slider2_e3 #e3, .fotos_grande #slider2_e3 #e3 img, .fotos_grande #slider2_beacuadrado, .fotos_grande #slider2_beacuadrado #beacuadrado, .fotos_grande #slider2_beacuadrado #beacuadrado img, .fotos_grande #slider2_atio3, .fotos_grande #slider2_atio3 #atio3, .fotos_grande #slider2_atio3 #atio3 img, .fotos_grande #slider2_ati04, .fotos_grande #slider2_ati04 #ati04, .fotos_grande #slider2_ati04 #ati04 img, .fotos_grande #slider2_versalles, .fotos_grande #slider2_versalles #versalles, .fotos_grande #slider2_versalles #versalles img, .fotos_grande #slider2_casa100, .fotos_grande #slider2_casa100 #casa100, .fotos_grande #slider2_casa100 #casa100 img, .fotos_grande #slider2_bambu, .fotos_grande #slider2_bambu #bambu, .fotos_grande #slider2_bambu #bambu img, .fotos_grande #slider2_madiautos_norte, .fotos_grande #slider2_madiautos_norte #madiautosnorte, .fotos_grande #slider2_madiautos_norte #madiautosnorte img, .fotos_grande #slider2_madiautos_morato, .fotos_grande #slider2_madiautos_morato #madiautos_morato, .fotos_grande #slider2_madiautos_morato #madiautos_morato img, .fotos_grande #slider2_une1, .fotos_grande #slider2_une1 #une1, .fotos_grande #slider2_une1 #une1 img, .fotos_grande #slider2_une2, .fotos_grande #slider2_une2 #une2, .fotos_grande #slider2_une2 #une2 img, .fotos_grande #slider2_chia, .fotos_grande #slider2_chia #chia, .fotos_grande #slider2_chia #chia img, .fotos_grande #slider2_pqs, .fotos_grande #slider2_pqs #pqs, .fotos_grande #slider2_pqs #pqs img, .fotos_grande #slider2_puertolopez, .fotos_grande #slider2_puertolopez #puertolopez, .fotos_grande #slider2_puertolopez #puertolopez img{
+		width: 667px !important;
+		height: 375px !important;
+	}
+	.fotos_grande iframe{
+		width: 667px !important;
+		height: 375px !important;
+	}
+	#modal .connected-carousels {
+		width: 100% !important;
+		margin-top: 0 !important;
+		margin-left: -80px !important;
+	}
+	#modal .connected-carousels .stage{
+		width: 100% !important;
+	}
+	#modal .remodal-close{
+		margin:0 !important;
+		display: none !important;
+	}
+	#botonsmartphone{
+		display: block !important;
+	}
+	.boton_menu_smartphone {
+		width: 99px;
+		height: 24px;
+		border:1px solid #fff;
+		border-radius: 10px;
+		background: #000;
+		opacity: 0.5;
+		color: rgba(237,50,54,1);
+		position: absolute;
+		z-index: 1;
+		margin: -50% 0 0 11%;
+	}
+	.boton_menu_smartphone2{
+		width: 99px;
+		height: 24px;
+		border:1px solid #fff;
+		border-radius: 10px;
+		background: #000;
+		opacity: 0.5;
+		color: rgba(237,50,54,1);
+		position: absolute;
+		z-index: 1;
+		margin: -18% 0 0 11%;
+	}
+	#contentsmartphone{
+		width: 550px;
+		height: 300px;
+		position: absolute;
+		margin-top: -48%;
+		margin-left: -90%;
+		background: #000;
+		opacity: 0.8;
+		border-radius: 0 50px 0 0;
+	}
+	#contentsmartphone2{
+		width: 400px;
+		height: 100px;
+		position: absolute;
+		margin-top: -15%;
+		margin-left: -90%;
+		background: #000;
+		opacity: 0.8;
+		border-radius: 0 50px 50px 0;
+	}
+	#contentsmartphone .remodal-confirm, #contentsmartphone2 #close_option{
+		margin: 10px 0 0 10px !important;
+	}
+	#contentsmartphone #parrafosmartphone{
+		margin-left: 2% !important;
+		margin-top: 0 !important; 
+		width: 95% !important;
+	}
+	#contentsmartphone #titulosmartphone, #contentsmartphone2 #close_option{
+		margin-top: 0 !important;
+		margin-left: 0 !important;
+	}
+	#contentsmartphone #close_option, #contentsmartphone2 #close_option{
+		position: absolute !important;
+		margin: 0% 0 0 110% !important;
+		display: block !important;
+	}
+	#contentsmartphone .remodal-close:before, #contentsmartphone2 #close_option{
+		font-size: 50px !important;
+	}
+	#contentsmartphone2 .remodal-confirm{
+		margin-left: 4% !important;
+	}
+	#contentsmartphone2 #titulosmartphone{
+		margin-left: -49% !important;
+	}
+	#contentsmartphone2 .remodal-close:before{
+		font-size: 50px !important;
+	}
+}
+/*=========================================================================RESOLUCION IPAD  PORTRAIT 768X1024*/
+@media only screen and (device-width: 768px) and (min-device-width: 600px) and (orientation: portrait){
+	.slides-navigation a {
+		display: none !important;
+	}
+	#icono_home, #icono_quienes, #icono_arquitectura, #icono_diseno, #icono_web, #icono_ventas, #icono_contacto{
+		display: none;
+	}
+	.navbar-nav > li{
+		margin:-15px 2px 0 3px !important;
+	}
+
+	.navbar-brand img{
+	 	display: block !important;
+	 	position: absolute;
+	 	margin: -8px 0 0 -20px !important;
+	 	width: 50px !important;
+	 	height: 40px !important;
+	}
+	#top-menu li a.ini{
+		display: none;
+	}
+	#top-menu span{
+		margin: -1px 0 0 0 !important;
+	}
+	#aviso_cambio{
+		display: block !important;
+		width: 300px !important;
+		height: 300px !important;
+		background-size: 100% !important;
+		margin: -30% 0 0 11% !important;
+		z-index: 20;
+		opacity: 0.7 !important;
+		animation: opa 1s linear 1s infinite;
+		-webkit-animation: opa 1s linear 1s infinite;
+		-moz-animation: opa 1s linear 1s infinite;
+		-o-animation: opa 1s linear 1s infinite;
+		-ms-animation: opa 1s linear 1s infinite;
+	}
+	@keyframes opa{
+		0%{opacity: 0.5;}
+		50%{opacity: 1;}
+		100%{opacity: 0.5;}
+	}
+	@-webkit-keyframes opa{
+		0%{opacity: 0.5;}
+		50%{opacity: 1;}
+		100%{opacity: 0.5;}
+	}
+	@-moz-keyframes opa{
+		0%{opacity: 0.5;}
+		50%{opacity: 1;}
+		100%{opacity: 0.5;}
+	}
+	@-o-keyframes opa{
+		0%{opacity: 0.5;}
+		50%{opacity: 1;}
+		100%{opacity: 0.5;}
+	}
+	@-ms-keyframes opa{
+		0%{opacity: 0.5;}
+		50%{opacity: 1;}
+		100%{opacity: 0.5;}
+	}
+	#fullpage footer{
+		display: none !important;
+	}
+}
+/*=======================================================RESOLUCIÓN TABLET (SAMSUNG GALAXY TAB 2 7") PORTRAIT*/
+@media only screen and (max-device-width: 600px) and (min-device-width: 480px) and (orientation: portrait){
+	/*==========================================INICIO*/
+	.slides-navigation a {
+		display: none !important;
+	}
+	.slides-pagination{
+		display: none !important;
+	}
+	#top-menu span{
+		display: none;
+	}
+	#icono_home, #icono_quienes, #icono_arquitectura, #icono_diseno, #icono_web, #icono_ventas, #icono_contacto{
+		margin: -9% 0 0 67% !important;
+	}
+	.slider_area{
+		width: 100% !important; 
+	}
+	#slides{
+		width: 100% !important;
+	}
+	.slider_overlay{
+		width: 100% !important;
+	}
+	.navbar-brand img{
+	 	display: block !important;
+		margin: -4% 0 0 1% !important;
+		position: absolute;
+		z-index: 20;
+	}
+	#aviso_cambio{
+		display: block !important;
+		width: 200px !important;
+		height: 200px !important;
+		background-size: 100% !important;
+		margin: -30% 0 0 11% !important;
+		z-index: 20;
+		opacity: 0.7 !important;
+		animation: opa 1s linear 1s infinite;
+		-webkit-animation: opa 1s linear 1s infinite;
+		-moz-animation: opa 1s linear 1s infinite;
+		-o-animation: opa 1s linear 1s infinite;
+		-ms-animation: opa 1s linear 1s infinite;
+	}
+	@keyframes opa{
+		0%{opacity: 0.5;}
+		50%{opacity: 1;}
+		100%{opacity: 0.5;}
+	}
+	@-webkit-keyframes opa{
+		0%{opacity: 0.5;}
+		50%{opacity: 1;}
+		100%{opacity: 0.5;}
+	}
+	@-moz-keyframes opa{
+		0%{opacity: 0.5;}
+		50%{opacity: 1;}
+		100%{opacity: 0.5;}
+	}
+	@-o-keyframes opa{
+		0%{opacity: 0.5;}
+		50%{opacity: 1;}
+		100%{opacity: 0.5;}
+	}
+	@-ms-keyframes opa{
+		0%{opacity: 0.5;}
+		50%{opacity: 1;}
+		100%{opacity: 0.5;}
+	}
+	#section0{
+		height: 100% !important;
+	}
+	#section1, #section2, #section3, #section4, #section5, #section6, #espacio12{
+		display: none !important;
+	}
+	/*=========================================================================QUIENES SOMOS*/
+	#tirilla{
+		width: 100%;
+		position: absolute;
+		margin-left:0 ;
+		animation-name: carousel;
+		-webkit-animation-name: carousel;
+		-moz-animation-name: carousel;
+		-o-animation-name: carousel;
+		-ms-animation-name: carousel;
+		transition:all 1s ease;
+		-webkit-transition:all 1s ease;
+		-moz-transition:all 1s ease;
+		-o-transition:all 1s ease;
+		-ms-transition:all 1s ease;
+		animation-iteration-count:infinite;
+		-webkit-animation-iteration-count:infinite;
+		-moz-animation-iteration-count:infinite;
+		-o-animation-iteration-count:infinite;
+		-ms-animation-iteration-count:infinite;
+		animation-duration:30s;
+		-webkit-animation-duration:30s;
+		-moz-animation-duration:30s;
+		-o-animation-duration:30s;
+		-ms-animation-duration:30s;
+	}
+	/*=================================================*/
+}
+/* =============================================================================RESOLUCION IPHONE 6 LANDSCAPE*/
+@media only screen and (max-device-width: 667px) and (min-device-width: 375px) and (orientation : landscape){
+	/*==========================================INICIO*/
+	.slides-navigation a {
+		display: none !important;
+	}
+	.slides-pagination{
+		display: none !important;
+	}
+	#top-menu{
+		/*margin: 0 0 0 165px !important;*/
+		width: 100% !important;
+	}
+	#top-menu span{
+		display: none;
+	}
+	#icono_home, #icono_quienes, #icono_arquitectura, #icono_diseno, #icono_web, #icono_ventas, #icono_contacto{
+		margin: -29% 0 0 86% !important;
+	}
+	.navbar-default{
+		background-color: transparent !important;
+	}
+	.nav > li {
+    position: relative !important;
+    display: block !important;
+    margin: 0 0 -13px -38px !important;
+	}
+	.navbar-fixed-top .navbar-collapse, .navbar-fixed-bottom .navbar-collapse {
+    max-height: 350px !important;
+	}
+	.container>.navbar-header, .container-fluid>.navbar-header, .container>.navbar-collapse, .container-fluid>.navbar-collapse {
+    margin-right: -15px;
+    margin-left: 70% !important;
+	}
+	#section0{
+		height: 100% !important;
+	}
+	#fullpage footer{
+		display: none !important;
+		padding: 0 !important;
+		position: absolute !important;
+		bottom:0 !important;
+		margin-left: -100% !important;
+		z-index: 2 !important;
+	}
+	#fullpage footer .social_nav{
+		margin-top: 2%;
+	}
+	#footer .footer_right{
+		width: 14% !important;
+		margin: -6% 0 0 78% !important;
+	}
+	/*====================================================================================QUIENES SOMOS*/
+	#section1{
+		height: 375px !important;
+	}
+	.fondo_infografia{
+		display: none !important;
+	}
+	#about{
+		height: 375px !important;
+		padding: 0 0 !important; 
+	}
+	#quienes_smart{
+		width: 100%;
+	}
+	.fondoqssmart{
+		background: url(../img/qssmart_fondo.png);
+		width: 100%;
+	}
+	#cenefa_negra{
+		background: #000;
+		width: 100%;
+		height: 60px
+	}
+	p#txtsmart{
+		color: #383838;
+	    text-align: justify;
+	    width: 94%;
+	    font-size: 9.5pt;
+	    padding-top: 13.5%;
+	    padding-left: 4.7%;
+		opacity: 0;
+		position: absolute;
+	}
+	p#txtmision {
+		color: #383838;
+	    text-align: center;
+	    width: 94%;
+	    font-size: 9.5pt;
+	    padding-top: 16.5%;
+	    padding-left: 4.7%;
+		opacity: 0;
+		position: absolute;
+	}
+	p#txtvalores{
+		color: #383838;
+	    text-align: justify;
+	    width: 98%;
+	    font-size: 9.5pt;
+	    padding-top: 11.5%;
+	    padding-left: 2.7%;
+		opacity: 0;
+		position: absolute;
+	}
+	#lineasmart{
+		background: url(../img/qssmart_linea.png);
+		width: 100%;
+		height: 2px;
+		position: absolute;
+		margin: 38.6% 0 0 0;
+		z-index: 1;
+	}
+	#contenedoravatar{
+	    width: 667px;
+	    height: 275px !important;
+	    overflow: hidden;
+	    position: absolute;
+	    margin-top: 3% !important;
+	}
+	#smart1{
+		background: url(../img/qssmart1_1.png);
+		width: 167px;
+		height: 171px;
+		position: absolute;
+		margin: 15.4% 0 0 0;
+	}
+	#smart2{
+		background: url(../img/qssmart2_2.png);
+		width: 167px;
+		height: 171px;
+		position: absolute;
+		margin: 15.4% 0 0 167px;
+	}
+	#smart3{
+		background: url(../img/qssmart3_3.png);
+		width: 167px;
+		height: 171px;
+		position: absolute;
+		margin: 15.4% 0 0 334px;
+	}
+	#smart1_2{
+		background: url(../img/qssmart1_1.png);
+		width: 167px;
+		height: 171px;
+		position: absolute;
+		margin: 15.4% 0 0 1837px;
+	}
+	#smart2_2{
+		background: url(../img/qssmart2_2.png);
+		width: 167px;
+		height: 171px;
+		position: absolute;
+		margin: 15.4% 0 0 2004px;
+	}
+	#smart3_2{
+		background: url(../img/qssmart3_3.png);
+		width: 167px;
+		height: 171px;
+		position: absolute;
+		margin: 15.4% 0 0 2171px;
+	}
+	#smart4{
+		background: url(../img/qssmart4_4.png);
+		width: 167px;
+		height: 171px;
+		position: absolute;
+		margin: 15.4% 0 0 501px;
+	}
+	#smart5{
+		background: url(../img/qssmart5_5.png);
+		width: 167px;
+		height: 171px;
+		position: absolute;
+		margin: 15.4% 0 0 668px;
+	}
+	#smart4_2{
+		background: url(../img/qssmart4_4.png);
+		width: 167px;
+		height: 171px;
+		position: absolute;
+		margin: 15.4% 0 0 2338px;
+	}
+	#smart5_2{
+		background: url(../img/qssmart5_5.png);
+		width: 167px;
+		height: 171px;
+		position: absolute;
+		margin: 15.4% 0 0 2505px;
+	}
+	#smart6_2{
+		background: url(../img/qssmart6_6.png);
+		width: 167px;
+		height: 171px;
+		position: absolute;
+		margin: 15.4% 0 0 2672px;
+	}
+	#smart6{
+		background: url(../img/qssmart6_6.png);
+		width: 167px;
+		height: 171px;
+		position: absolute;
+		margin: 15.4% 0 0 835px;
+	}
+	#smart7{
+		background: url(../img/qssmart7_7.png);
+		width: 167px;
+		height: 171px;
+		position: absolute;
+		margin: 15.4% 0 0 1002px;
+	}
+	#smart8{
+		background: url(../img/qssmart8_8.png);
+		width: 167px;
+		height: 171px;
+		position: absolute;
+		margin: 15.4% 0 0 1169px;
+	}
+	#smart9{
+		background: url(../img/qssmart9_9.png);
+		width: 167px;
+		height: 171px;
+		position: absolute;
+		margin: 15.4% 0 0 1336px;
+	}
+	#smart10{
+		background: url(../img/qssmart10_10.png);
+		width: 167px;
+		height: 171px;
+		position: absolute;
+		margin: 15.4% 0 0 1503px;
+	}
+	#smart11{
+		background: url(../img/qssmart11_11.png);
+		width: 167px;
+		height: 171px;
+		position: absolute;
+		margin: 15.4% 0 0 1670px;
+	}
+	#popup1{
+		background: url(../img/qssmart1.jpg);
+		width: 667px;
+		height: 312px;
+		position: absolute;
+		z-index: 50;
+	}
+	#popup2{
+		background: url(../img/qssmart2.jpg);
+		width: 667px;
+		height: 312px;
+		position: absolute;
+		z-index: 50;
+		margin-top: -2%;
+	}
+	#popup3{
+		background: url(../img/qssmart3.jpg);
+		width: 667px;
+		height: 312px;
+		position: absolute;
+		z-index: 50;
+	}
+	#popup4{
+		background: url(../img/qssmart4.jpg);
+		width: 667px;
+		height: 312px;
+		position: absolute;
+		z-index: 50;
+	}
+	#popup5{
+		background: url(../img/qssmart5.jpg);
+		width: 667px;
+		height: 312px;
+		position: absolute;
+		z-index: 50;
+	}
+	#popup6{
+		background: url(../img/qssmart6.jpg);
+		width: 667px;
+		height: 312px;
+		position: absolute;
+		z-index: 50;
+	}
+	#popup7{
+		background: url(../img/qssmart7.jpg);
+		width: 667px;
+		height: 312px;
+		position: absolute;
+		z-index: 50;
+	}
+	#popup8{
+		background: url(../img/qssmart8.jpg);
+		width: 667px;
+		height: 312px;
+		position: absolute;
+		z-index: 50;
+	}
+	#popup9{
+		background: url(../img/qssmart9.jpg);
+		width: 667px;
+		height: 312px;
+		position: absolute;
+		z-index: 50;
+	}
+	#popup10{
+		background: url(../img/qssmart10.jpg);
+		width: 667px;
+		height: 312px;
+		position: absolute;
+		z-index: 50;
+	}
+	#popup11{
+		background: url(../img/qssmart11.jpg);
+		width: 667px;
+		height: 312px;
+		position: absolute;
+		z-index: 50;
+	}
+	#popup1_2{
+		background: url(../img/qssmart1.jpg);
+		width: 667px;
+		height: 312px;
+		position: absolute;
+		z-index: 50;
+	}
+	#popup2_2{
+		background: url(../img/qssmart2.jpg);
+		width: 667px;
+		height: 312px;
+		position: absolute;
+		z-index: 50;
+		margin-top: -2%;
+	}
+	#popup3_2{
+		background: url(../img/qssmart3.jpg);
+		width: 667px;
+		height: 312px;
+		position: absolute;
+		z-index: 50;
+	}
+	#popup4_2{
+		background: url(../img/qssmart4.jpg);
+		width: 667px;
+		height: 312px;
+		position: absolute;
+		z-index: 50;
+	}
+	#popup5_2{
+		background: url(../img/qssmart5.jpg);
+		width: 667px;
+		height: 312px;
+		position: absolute;
+		z-index: 50;
+	}
+	#popup6_2{
+		background: url(../img/qssmart6.jpg);
+		width: 667px;
+		height: 312px;
+		position: absolute;
+		z-index: 50;
+	}
+	.close_popup{
+		width: 3%;
+		margin:6% 0 0 6%;
+		position: absolute;
+		z-index: 100;
+	}
+	#txtsmart strong , #txtmision strong, #txtvalores strong{
+		color:#66c7cd;
+	}
+	#txtmision span, #txtvalores span{
+		color:rgba(237,50,54,1);
+	}
+	#iconoqs_smart{
+		background: url(../img/quienesrojo.png);
+		width: 34px;
+		height: 34px;
+		background-size: 100%;
+		margin:2% 0 0 85%;
+		position: absolute;
+	}
+	#tirilla{
+		width: 100%;
+		position: absolute;
+		margin-left:0 ;
+		animation-name: carousel;
+		-webkit-animation-name: carousel;
+		-moz-animation-name: carousel;
+		-o-animation-name: carousel;
+		-ms-animation-name: carousel;
+		transition:all 1s ease;
+		-webkit-transition:all 1s ease;
+		-moz-transition:all 1s ease;
+		-o-transition:all 1s ease;
+		-ms-transition:all 1s ease;
+		animation-iteration-count:infinite;
+		-webkit-animation-iteration-count:infinite;
+		-moz-animation-iteration-count:infinite;
+		-o-animation-iteration-count:infinite;
+		-ms-animation-iteration-count:infinite;
+		animation-duration:30s;
+		-webkit-animation-duration:30s;
+		-moz-animation-duration:30s;
+		-o-animation-duration:30s;
+		-ms-animation-duration:30s;
+	}
+	.puntero_quienes{
+		margin-top: 12px !important;
+	}
+	/*==========================================================================================ARQUITECTURA*/
+	.counter_section{
+		min-height: 228px !important;
+		width: 667px !important;
+		position: absolute;
+		margin: -124px 0 0 -15px;
+	}
+	.wagwep-container ul#portfolio-filter{
+		width:637px !important;
+		margin-top: 71px !important;
+		display: inline-flex !important;
+	}
+	.wagwep-container ul#portfolio-filter li{
+		width: 217px !important;
+		margin-left: 2px !important;
+	}
+	#carrusel-inicio{
+		margin: 0 0 0 -14px !important;
+		width: 667px !important;
+	}
+	.connected-carousels .navigation{
+		width:62% !important;
+	}
+	.connected-carousels .carousel-stage .fotos_grande li img {
+		width: 34% !important;
+	}
+	p#modal1Desc{
+		display: none !important;
+	}
+	.contenedor_botones{
+		width: 160px !important;
+		margin: -57.3% 0 0 -6% !important;
+		display: none !important;
+	}
+	.connected-carousels .prev-stage, .connected-carousels .next-stage{
+		display: none !important;
+	}
+	.connected-carousels .prev-stage span{
+		margin: 68% 0 0 0 !important;
+	}
+	.remodal .connected-carousels .stage{
+		width: 115% !important;
+		margin: -5.9% 0 0 -17.5% !important;
+	}
+	#modal1Title{
+		display: none !important;
+	}
+	#modal{
+		width: 100%;
+		height: 200%;
+		background-color: rgba(0, 0, 0, 0.8);
+		position: fixed;
+		top: 0;
+		left: 0;
+		z-index: 10000;
+		display: none;
+	}
+	.fotos_grande #slider2_iseo, .fotos_grande #slider2_iseo #iseo, .fotos_grande #slider2_iseo #iseo img, .fotos_grande #slider2_eco104, .fotos_grande #slider2_eco104 #eco104, .fotos_grande #slider2_eco104 #eco104 img, .fotos_grande #slider2_gaia104, .fotos_grande #slider2_gaia104 #gaia104, .fotos_grande #slider2_gaia104 #gaia104 img, .fotos_grande #slider2_e3, .fotos_grande #slider2_e3 #e3, .fotos_grande #slider2_e3 #e3 img, .fotos_grande #slider2_beacuadrado, .fotos_grande #slider2_beacuadrado #beacuadrado, .fotos_grande #slider2_beacuadrado #beacuadrado img, .fotos_grande #slider2_atio3, .fotos_grande #slider2_atio3 #atio3, .fotos_grande #slider2_atio3 #atio3 img, .fotos_grande #slider2_ati04, .fotos_grande #slider2_ati04 #ati04, .fotos_grande #slider2_ati04 #ati04 img, .fotos_grande #slider2_versalles, .fotos_grande #slider2_versalles #versalles, .fotos_grande #slider2_versalles #versalles img, .fotos_grande #slider2_casa100, .fotos_grande #slider2_casa100 #casa100, .fotos_grande #slider2_casa100 #casa100 img, .fotos_grande #slider2_bambu, .fotos_grande #slider2_bambu #bambu, .fotos_grande #slider2_bambu #bambu img, .fotos_grande #slider2_madiautos_norte, .fotos_grande #slider2_madiautos_norte #madiautosnorte, .fotos_grande #slider2_madiautos_norte #madiautosnorte img, .fotos_grande #slider2_madiautos_morato, .fotos_grande #slider2_madiautos_morato #madiautos_morato, .fotos_grande #slider2_madiautos_morato #madiautos_morato img, .fotos_grande #slider2_une1, .fotos_grande #slider2_une1 #une1, .fotos_grande #slider2_une1 #une1 img, .fotos_grande #slider2_une2, .fotos_grande #slider2_une2 #une2, .fotos_grande #slider2_une2 #une2 img, .fotos_grande #slider2_chia, .fotos_grande #slider2_chia #chia, .fotos_grande #slider2_chia #chia img, .fotos_grande #slider2_pqs, .fotos_grande #slider2_pqs #pqs, .fotos_grande #slider2_pqs #pqs img, .fotos_grande #slider2_puertolopez, .fotos_grande #slider2_puertolopez #puertolopez, .fotos_grande #slider2_puertolopez #puertolopez img{
+		width: 667px !important;
+		height: 375px !important;
+	}
+	.fotos_grande iframe{
+		width: 667px !important;
+		height: 375px !important;
+	}
+	#modal .connected-carousels {
+		width: 100% !important;
+		margin-top: 0 !important;
+		margin-left: -80px !important;
+	}
+	#modal .connected-carousels .stage{
+		width: 100% !important;
+	}
+	#modal .remodal-close{
+		margin:0 !important;
+		display: none !important;
+	}
+	#botonsmartphone{
+		display: block !important;
+	}
+	.boton_menu_smartphone {
+		width: 99px;
+		height: 24px;
+		border:1px solid #fff;
+		border-radius: 10px;
+		background: #000;
+		opacity: 0.5;
+		color: rgba(237,50,54,1);
+		position: absolute;
+		z-index: 1;
+		margin: -51% 0 0 11%;
+	}
+	.boton_menu_smartphone2{
+		width: 99px;
+		height: 24px;
+		border:1px solid #fff;
+		border-radius: 10px;
+		background: #000;
+		opacity: 0.5;
+		color: rgba(237,50,54,1);
+		position: absolute;
+		z-index: 1;
+		margin: -18% 0 0 11%;
+	}
+	#contentsmartphone{
+		width: 550px;
+		height: 300px;
+		position: absolute;
+		margin-top: -48%;
+		margin-left: -90%;
+		background: #000;
+		opacity: 0.8;
+		border-radius: 0 50px 0 0;
+	}
+	#contentsmartphone2{
+		width: 400px;
+		height: 100px;
+		position: absolute;
+		margin-top: -15%;
+		margin-left: -90%;
+		background: #000;
+		opacity: 0.8;
+		border-radius: 0 50px 50px 0;
+	}
+	#contentsmartphone .remodal-confirm, #contentsmartphone2 #close_option{
+		margin: 10px 0 0 10px !important;
+	}
+	#contentsmartphone #parrafosmartphone{
+		margin-left: 2% !important;
+		margin-top: 0 !important; 
+		width: 95% !important;
+	}
+	#contentsmartphone #titulosmartphone, #contentsmartphone2 #close_option{
+		margin-top: 1% !important;
+		margin-left: -20% !important;
+	}
+	#contentsmartphone #close_option, #contentsmartphone2 #close_option{
+		position: absolute !important;
+		margin: 0% 0 0 110% !important;
+		display: block !important;
+	}
+	#contentsmartphone .remodal-close:before, #contentsmartphone2 #close_option{
+		font-size: 50px !important;
+	}
+	#contentsmartphone2 .remodal-confirm{
+		margin-left: 4% !important;
+	}
+	#contentsmartphone2 #titulosmartphone{
+		margin-left: -49% !important;
+	}
+	#contentsmartphone2 .remodal-close:before{
+		font-size: 50px !important;
+	}
+	#section2{
+		height: 100% !important;
+		margin-top: 2% !important;
+	}
+	/*===========================================================================DISEÑO GRÁFICO*/
+	#Stage{
+		/*margin: 0 0 0 45% !important;*/
+	}
+	.puntero_grafico{
+		margin-top: -19.55% !important;
+	}
+	#prueba_animacion{
+		height: 100% !important;
+	}
+	.espacio_galeria{
+		height: 650px !important;
+		width: 100% !important;
+		position: absolute !important;
+		margin:-48.5% 0 0 56.2% !important;
+	}
+	#slider2_container2, #slider2_container, #slider2_container3{
+		margin: 4% 0 0 0% !important;
+		position: absolute !important;
+	}
+	.jssorb01{
+		display: none !important;
+	}
+	.jssora05r{
+		z-index: -90000000000000 !important;
+		opacity: 0 !important;	
+	}
+	.jssora05l{
+		z-index: -90000000000000 !important;
+		opacity: 0 !important;		
+	}
+	#crossclose{
+		margin: 44% 0 0 94% !important;
+	}
+	.flow-wrapper{
+		margin: 0% 0px 0px 0% !important;
+	}
+	#dg_eco104, #dg_gaia104, #dg_e3, #dg_eco104 div, #dg_gaia104 div, #dg_e3 div, #dg_eco104 div img, #dg_gaia104 div img, #dg_e3 div img,#slider2_container, #slider2_container2, #slider2_container3{
+		width: 667px !important;
+		height: 375px !important;
+	}
+	.carousel_eco104 div, .carousel_e3 div, .carousel_gaia104 div{
+		width: 667px !important;
+		height: 375px !important;
+	}
+	#modal2{
+		width: 100%;
+		height: 200%;
+		background-color: rgba(0, 0, 0, 0.8);
+		position: fixed;
+		top: 0;
+		left: 0;
+		z-index: 10000;
+		display: none;
+	}
+	#slider2_container2, #slider2_container, #slider2_container3{
+		display: block !important;
+	}
+	#modal2 .stage{
+		height: 1000px;
+		width: 100% !important;
+		left: 0% !important;
+	}
+	#modal2 .remodal-close{
+		margin: 52% 0 0 94% !important;
+	}
+	#modal2 .remodal-close:before{
+		font-size: 40px !important;
+	}
+	#modal2 .connected-carousels .carousel-stage{
+		height: 100% !important;
+	}
+	#section2 .portfolio_area{
+		height: 375px !important;
+	}
+	#section2 #service{
+		height: 375px !important;
+	}
+	#section3{
+		width: 100% !important;
+		height: 375px !important;
+	}
+	#section3 #works{
+		padding: 0 !important;
+	}
+	/*========================================================================================DISEÑO WEB*/
+	#section4 #diseno_web h1{
+		font-size: 11pt;
+		height: 15px;
+	}
+	#section4 #diseno_web p{
+		width: 87%;
+		margin-left: 2%;
+		font-size: 10pt;
+	}
+	#section4 #diseno_web .intermitente{
+		margin-top: 5%;
+		width: 10px;
+	}
+	#section4 #diseno_web .intermitente2{
+		margin-top: 2.4%;
+		width: 10px;
+	}
+	#section4 #diseno_web .intermitente3{
+		margin: 19.3% 0 0 0;
+		width: 10px;
+	}
+	#section4 #diseno_web #frame1 {
+		width: 200px;
+		height: 100px !important;
+	}
+	#section4 #diseno_web #frame2 {
+		width: 200px;
+		height: 100px !important;
+	}
+	#section4 #diseno_web #tributar {
+		width: 200px;
+		height: 100px;
+	}
+	#section4 #diseno_web #hache {
+		width: 200px;
+		height: 100px;
+	}
+	#section4 #diseno_web #titulo1{
+		font-size: 11pt;
+		height: 20px;
+	}
+	#section4 #diseno_web #titulo2{
+		font-size: 11pt;
+		height: 20px;
+		margin: 17% 0 0 7%;
+	}
+	#section4{
+		width: 100% !important;
+		height: 100% !important;
+	}
+	#diseno_web {
+		width: 667px !important;
+		height: 383px !important;
+	}
+	#content_diseno_web{
+		height: 375px !important;
+	}
+	/*========================================================================================VENTAS*/
+	#section5{
+		width: 100% !important;
+		height: 375px !important;
+		margin-top: 1% !important;
+	}
+	#section5 #pricing{
+		height: 375px !important;
+	}
+	#section5 #banner_venta1{
+		background-size: 100% !important;
+		width: 80% !important;
+		background-repeat: no-repeat !important;
+		margin: -7% 0 0 9% !important;
+	}
+	/*========================================================================================CONTACTO*/
+	#section6{
+		width: 100% !important;
+		height: 100% !important;
+	}
+	#section6 #contact{
+		margin:0 0 0 0% !important;
+	}
+	#section6 #contact p{
+		margin: -35% 0 0 81% !important;
+	}
+	#section6 #contact form{
+		margin: -13% 0 0 50px !important;
+		width: 530px !important;
+	}
+	#section6 #contact input{
+		margin-bottom: 1% !important;
+	}
+	#section6 #contact iframe{
+		height: 530px !important;
+		display: none !important;
+	}
+	#footer{
+		padding: 6px 0 0 0 !important;
+		width: 100% !important;
+	}
+	#section6 .iconmaps{
+		margin: 0% 0 0 18% !important;
+		display: none !important;
+	}
+	#section6 #lineas_contacto{
+		margin: -30% 0 0 19.5% !important;
+		display: none !important;
+	}
+	#section6 #muestraedificio{
+		margin: -14% 0 0 70% !important;
+		width: 100px !important;
+		height: 100px !important;
+	}
+	#section6 input.form-control{
+		width: 45% !important;
+	}
+	#section6 textarea.form-control{
+		width: 100% !important;
+		height: 100px !important;
+	}
+	#footer .footer_left{
+		margin-left: -25% !important;
+	}
+	#footer .footer_left > p{
+		font-size: 10pt !important;
+	}
+	#section6 .heading p{
+		font-size: 10pt !important;
+	}
+	#section6 .submit_btn{
+		margin: 10px 0 0 0;
+	}
+}
+/* ==============================================================================RESOLUCION IPHONE 6 PORTRAIT*/
+@media only screen and (max-device-width: 375px) and (min-device-width: 321px) and (orientation : portrait){
+	/*==========================================INICIO*/
+	#fullpage footer{
+		display: none !important;
+		padding: 0 !important;
+		position: absolute !important;
+		bottom:0 !important;
+		margin-left: -100% !important;
+		z-index: 2 !important;
+	}
+	#fullpage footer .social_nav{
+		margin-top: 2%;
+	}
+	#footer .footer_right{
+		width: 14% !important;
+		margin: -6% 0 0 78% !important;
+	}
+	.slides-navigation a {
+		display: none !important;
+	}
+	.slides-pagination{
+		display: none !important;
+	}
+	#top-menu span{
+		display: none;
+	}
+	#icono_home, #icono_quienes, #icono_arquitectura, #icono_diseno, #icono_web, #icono_ventas, #icono_contacto{
+		margin: -13% 0 0 67% !important;
+	}
+	.slider_area{
+		width: 100% !important;
+	}
+	#slides{
+		width: 100% !important;
+	}
+	.slider_overlay{
+		width: 100% !important;
+	}
+	.navbar-brand img{
+	 	display: block !important;
+		margin: -6% 0 0 34% !important;
+		position: absolute;
+		z-index: 20;
+	}
+	.navbar-toggle{
+		display: none !important;
+	}
+	.nav > li {
+    position: relative !important;
+    display: block !important;
+    margin: 0 0 -9px 0 !important;
+	}
+	#section0{
+		height: 100% !important;
+	}
+	#section1, #section2, #section3, #section4, #section5, #section6{
+		display: none !important;
+	}
+	#tirilla{
+		display: none !important;
+	}
+	#aviso_cambio{
+		display: block !important;
+		width: 200px !important;
+		height: 200px !important;
+		background-size: 100% !important;
+		margin: -20% 0 0 5% !important;
+		z-index: 20 !important;
+		opacity: 0.7 !important;
+		animation: opa 1s linear 1s infinite;
+		-webkit-animation: opa 1s linear 1s infinite;
+		-moz-animation: opa 1s linear 1s infinite;
+		-o-animation: opa 1s linear 1s infinite;
+		-ms-animation: opa 1s linear 1s infinite;
+	}
+	@keyframes opa{
+		0%{opacity: 0.5;}
+		50%{opacity: 1;}
+		100%{opacity: 0.5;}
+	}
+	@-webkit-keyframes opa{
+		0%{opacity: 0.5;}
+		50%{opacity: 1;}
+		100%{opacity: 0.5;}
+	}
+	@-moz-keyframes opa{
+		0%{opacity: 0.5;}
+		50%{opacity: 1;}
+		100%{opacity: 0.5;}
+	}
+	@-o-keyframes opa{
+		0%{opacity: 0.5;}
+		50%{opacity: 1;}
+		100%{opacity: 0.5;}
+	}
+	@-ms-keyframes opa{
+		0%{opacity: 0.5;}
+		50%{opacity: 1;}
+		100%{opacity: 0.5;}
+	}
+	/*=================================================*/
+}
+/* =============================================================================RESOLUCION IPHONE 4s PORTRAIT*/
+@media only screen and (max-device-width: 320px) and (min-device-width: 0px) and (orientation : portrait){
+	/*==========================================INICIO*/
+	/*==========================================INICIO*/
+	.slides-navigation a {
+		display: none !important;
+	}
+	.slides-pagination{
+		display: none !important;
+	}
+	.navbar-toggle{
+		display: none !important;
+	}
+	#top-menu span{
+		display: none;
+	}
+	#icono_home, #icono_quienes, #icono_arquitectura, #icono_diseno, #icono_web, #icono_ventas, #icono_contacto{
+		margin: -13% 0 0 67% !important;
+	}
+	.slider_area{
+		width: 100% !important;
+	}
+	#slides{
+		width: 100% !important;
+	}
+	.slider_overlay{
+		width: 100% !important;
+	}
+	.navbar-brand img{
+	 	display: block !important;
+		margin: -6% 0 0 32% !important;
+		position: absolute;
+		z-index: 20;
+	}
+	.nav > li {
+    position: relative !important;
+    display: block !important;
+    margin: 0 0 -9px 0 !important;
+	}
+	#section0{
+		height: 100% !important;
+	}
+	#section1, #section2, #section3, #section4, #section5, #section6{
+		display: none !important;
+	}
+	#tirilla{
+		display: none !important;
+	}
+	#aviso_cambio{
+		display: block !important;
+		width: 200px !important;
+		height: 200px !important;
+		background-size: 100% !important;
+		margin: -15% 0 0 3% !important;
+		z-index: 20 !important;
+		opacity: 0.7 !important;
+		animation: opa 1s linear 1s infinite;
+		-webkit-animation: opa 1s linear 1s infinite;
+		-moz-animation: opa 1s linear 1s infinite;
+		-o-animation: opa 1s linear 1s infinite;
+		-ms-animation: opa 1s linear 1s infinite;
+	}
+	@keyframes opa{
+		0%{opacity: 0.5;}
+		50%{opacity: 1;}
+		100%{opacity: 0.5;}
+	}
+	@-webkit-keyframes opa{
+		0%{opacity: 0.5;}
+		50%{opacity: 1;}
+		100%{opacity: 0.5;}
+	}
+	@-moz-keyframes opa{
+		0%{opacity: 0.5;}
+		50%{opacity: 1;}
+		100%{opacity: 0.5;}
+	}
+	@-o-keyframes opa{
+		0%{opacity: 0.5;}
+		50%{opacity: 1;}
+		100%{opacity: 0.5;}
+	}
+	@-ms-keyframes opa{
+		0%{opacity: 0.5;}
+		50%{opacity: 1;}
+		100%{opacity: 0.5;}
+	}
+	#fullpage footer{
+		display: none !important;
+		padding: 0 !important;
+		position: absolute !important;
+		bottom:0 !important;
+		margin-left: -100% !important;
+		z-index: 2 !important;
+	}
+	#fullpage footer .social_nav{
+		margin-top: 2%;
+	}
+	#footer .footer_right{
+		width: 14% !important;
+		margin: -6% 0 0 78% !important;
+	}
+	/*=================================================*/
+}
+/*========================================OTRO TIPO DE RESPONSIVE NO DISPOSITIVO SOLO TAMAÑO DE VENTANA DEL NAVEGADOR*/
+@media only screen and (max-width: 1200px) and (min-width: 768px){
+	#icono_home, #icono_quienes, #icono_arquitectura, #icono_diseno, #icono_web, #icono_ventas, #icono_contacto{
+		display: none !important;
+	}
+	.icono_home-2, .icono_quienes-2, .icono_arquitectura-2, .icono_diseno-2, .icono_web-2, .icono_ventas-2, .icono_contacto-2{
+		display: none !important;
+	}
+	#top-menu{
+		width: 100% !important;
+		position: absolute !important;
+		margin: 0 0 0 5% !important;
+	}
+	.navbar-nav > li{
+		margin:0 !important;
+	}
+	.navbar-default{
+		height: 9% !important;
+	}
+	.navbar-default{
+		height: 90px !important;
+	}
+	#fullpage footer{
+		display: none !important;
+	}
+	.navbar-brand > img {
+		width: 62px !important;
+		height: 52px !important;
+		margin: -15px 0 0 -2% !important; 
+	}
+	/*============================================QUIENES SOMOS*/
+	#section1{
+		height: 375px !important;
+	}
+	.fondo_infografia{
+		display: none !important;
+	}
+	#about{
+		height: 375px !important;
+		padding: 0 0 !important; 
+	}
+	#quienes_smart{
+		display: block;
+		width: 100%;
+	}
+	.fondoqssmart{
+		background: url(../img/qssmart_fondo.png);
+		width: 100%;
+		height: 100%;
+		position: absolute;
+	}
+	#cenefa_negra{
+		background: #000;
+		width: 100%;
+		height: 60px;
+	}
+	p#txtsmart{
+		color: #383838;
+	    text-align: justify;
+	    width: 94%;
+	    font-size: 9.5pt;
+	    padding-top: 13.5%;
+	    padding-left: 4.7%;
+		opacity: 0;
+		position: absolute;
+	}
+	p#txtmision {
+		color: #383838;
+	    text-align: center;
+	    width: 94%;
+	    font-size: 9.5pt;
+	    padding-top: 16.5%;
+	    padding-left: 4.7%;
+		opacity: 0;
+		position: absolute;
+	}
+	p#txtvalores{
+		color: #383838;
+	    text-align: justify;
+	    width: 98%;
+	    font-size: 9.5pt;
+	    padding-top: 11.5%;
+	    padding-left: 2.7%;
+		opacity: 0;
+		position: absolute;
+	}
+	#lineasmart{
+		background: url(../img/qssmart_linea.png);
+		width: 100%;
+		height: 2px;
+		position: absolute;
+		margin: 38.6% 0 0 0;
+		z-index: 1;
+	}
+	#contenedoravatar{
+	    width: 667px;
+	    height: 275px !important;
+	    overflow: hidden;
+	    position: absolute;
+	    margin-top: 3% !important;
+	}
+	#smart1{
+		background: url(../img/qssmart1_1.png);
+		width: 167px;
+		height: 171px;
+		position: absolute;
+		margin: 15.4% 0 0 0;
+	}
+	#smart2{
+		background: url(../img/qssmart2_2.png);
+		width: 167px;
+		height: 171px;
+		position: absolute;
+		margin: 15.4% 0 0 167px;
+	}
+	#smart3{
+		background: url(../img/qssmart3_3.png);
+		width: 167px;
+		height: 171px;
+		position: absolute;
+		margin: 15.4% 0 0 334px;
+	}
+	#smart1_2{
+		background: url(../img/qssmart1_1.png);
+		width: 167px;
+		height: 171px;
+		position: absolute;
+		margin: 15.4% 0 0 1837px;
+	}
+	#smart2_2{
+		background: url(../img/qssmart2_2.png);
+		width: 167px;
+		height: 171px;
+		position: absolute;
+		margin: 15.4% 0 0 2004px;
+	}
+	#smart3_2{
+		background: url(../img/qssmart3_3.png);
+		width: 167px;
+		height: 171px;
+		position: absolute;
+		margin: 15.4% 0 0 2171px;
+	}
+	#smart4{
+		background: url(../img/qssmart4_4.png);
+		width: 167px;
+		height: 171px;
+		position: absolute;
+		margin: 15.4% 0 0 501px;
+	}
+	#smart5{
+		background: url(../img/qssmart5_5.png);
+		width: 167px;
+		height: 171px;
+		position: absolute;
+		margin: 15.4% 0 0 668px;
+	}
+	#smart4_2{
+		background: url(../img/qssmart4_4.png);
+		width: 167px;
+		height: 171px;
+		position: absolute;
+		margin: 15.4% 0 0 2338px;
+	}
+	#smart5_2{
+		background: url(../img/qssmart5_5.png);
+		width: 167px;
+		height: 171px;
+		position: absolute;
+		margin: 15.4% 0 0 2505px;
+	}
+	#smart6_2{
+		background: url(../img/qssmart6_6.png);
+		width: 167px;
+		height: 171px;
+		position: absolute;
+		margin: 15.4% 0 0 2672px;
+	}
+	#smart6{
+		background: url(../img/qssmart6_6.png);
+		width: 167px;
+		height: 171px;
+		position: absolute;
+		margin: 15.4% 0 0 835px;
+	}
+	#smart7{
+		background: url(../img/qssmart7_7.png);
+		width: 167px;
+		height: 171px;
+		position: absolute;
+		margin: 15.4% 0 0 1002px;
+	}
+	#smart8{
+		background: url(../img/qssmart8_8.png);
+		width: 167px;
+		height: 171px;
+		position: absolute;
+		margin: 15.4% 0 0 1169px;
+	}
+	#smart9{
+		background: url(../img/qssmart9_9.png);
+		width: 167px;
+		height: 171px;
+		position: absolute;
+		margin: 15.4% 0 0 1336px;
+	}
+	#smart10{
+		background: url(../img/qssmart10_10.png);
+		width: 167px;
+		height: 171px;
+		position: absolute;
+		margin: 15.4% 0 0 1503px;
+	}
+	#smart11{
+		background: url(../img/qssmart11_11.png);
+		width: 167px;
+		height: 171px;
+		position: absolute;
+		margin: 15.4% 0 0 1670px;
+	}
+	#popup1{
+		background: url(../img/qssmart1.jpg);
+		width: 667px;
+		height: 312px;
+		position: absolute;
+		z-index: 50;
+	}
+	#popup2{
+		background: url(../img/qssmart2.jpg);
+		width: 667px;
+		height: 312px;
+		position: absolute;
+		z-index: 50;
+		margin-top: -2%;
+	}
+	#popup3{
+		background: url(../img/qssmart3.jpg);
+		width: 667px;
+		height: 312px;
+		position: absolute;
+		z-index: 50;
+	}
+	#popup4{
+		background: url(../img/qssmart4.jpg);
+		width: 667px;
+		height: 312px;
+		position: absolute;
+		z-index: 50;
+	}
+	#popup5{
+		background: url(../img/qssmart5.jpg);
+		width: 667px;
+		height: 312px;
+		position: absolute;
+		z-index: 50;
+	}
+	#popup6{
+		background: url(../img/qssmart6.jpg);
+		width: 667px;
+		height: 312px;
+		position: absolute;
+		z-index: 50;
+	}
+	#popup7{
+		background: url(../img/qssmart7.jpg);
+		width: 667px;
+		height: 312px;
+		position: absolute;
+		z-index: 50;
+	}
+	#popup8{
+		background: url(../img/qssmart8.jpg);
+		width: 667px;
+		height: 312px;
+		position: absolute;
+		z-index: 50;
+	}
+	#popup9{
+		background: url(../img/qssmart9.jpg);
+		width: 667px;
+		height: 312px;
+		position: absolute;
+		z-index: 50;
+	}
+	#popup10{
+		background: url(../img/qssmart10.jpg);
+		width: 667px;
+		height: 312px;
+		position: absolute;
+		z-index: 50;
+	}
+	#popup11{
+		background: url(../img/qssmart11.jpg);
+		width: 667px;
+		height: 312px;
+		position: absolute;
+		z-index: 50;
+	}
+	#popup1_2{
+		background: url(../img/qssmart1.jpg);
+		width: 667px;
+		height: 312px;
+		position: absolute;
+		z-index: 50;
+	}
+	#popup2_2{
+		background: url(../img/qssmart2.jpg);
+		width: 667px;
+		height: 312px;
+		position: absolute;
+		z-index: 50;
+		margin-top: -2%;
+	}
+	#popup3_2{
+		background: url(../img/qssmart3.jpg);
+		width: 667px;
+		height: 312px;
+		position: absolute;
+		z-index: 50;
+	}
+	#popup4_2{
+		background: url(../img/qssmart4.jpg);
+		width: 667px;
+		height: 312px;
+		position: absolute;
+		z-index: 50;
+	}
+	#popup5_2{
+		background: url(../img/qssmart5.jpg);
+		width: 667px;
+		height: 312px;
+		position: absolute;
+		z-index: 50;
+	}
+	#popup6_2{
+		background: url(../img/qssmart6.jpg);
+		width: 667px;
+		height: 312px;
+		position: absolute;
+		z-index: 50;
+	}
+	.close_popup{
+		width: 3%;
+		margin:6% 0 0 6%;
+		position: absolute;
+		z-index: 100;
+	}
+	#txtsmart strong , #txtmision strong, #txtvalores strong{
+		color:#66c7cd;
+	}
+	#txtmision span, #txtvalores span{
+		color:rgba(237,50,54,1);
+	}
+	#iconoqs_smart{
+		background: url(../img/quienesrojo.png);
+		width: 34px;
+		height: 34px;
+		background-size: 100%;
+		margin:2% 0 0 85%;
+		position: absolute;
+	}
+	#tirilla{
+		width: 100%;
+		position: absolute;
+		margin-left:0 ;
+		animation-name: carousel;
+		-webkit-animation-name: carousel;
+		-moz-animation-name: carousel;
+		-o-animation-name: carousel;
+		-ms-animation-name: carousel;
+		transition:all 1s ease;
+		-webkit-transition:all 1s ease;
+		-moz-transition:all 1s ease;
+		-o-transition:all 1s ease;
+		-ms-transition:all 1s ease;
+		animation-iteration-count:infinite;
+		-webkit-animation-iteration-count:infinite;
+		-moz-animation-iteration-count:infinite;
+		-o-animation-iteration-count:infinite;
+		-ms-animation-iteration-count:infinite;
+		animation-duration:30s;
+		-webkit-animation-duration:30s;
+		-moz-animation-duration:30s;
+		-o-animation-duration:30s;
+		-ms-animation-duration:30s;
+	}
+	.puntero_quienes{
+		margin-top: 12px !important;
+	}
+}
+@media only screen and (max-width: 767px) and (min-width: 400px) and (orientation : portrait){
+	.footer_left {
+    width: 50% !important;
+    margin-left: 26% !important;
+	}
+	.navbar-default{
+		height: 90px !important;
+	}
+	#fullpage footer{
+		display: none !important;
+	}
+	.navbar-brand > img {
+		width: 62px !important;
+		height: 52px !important;
+		margin: -15px 0 0 -1% !important; 
+	}
+}
+
+
+@keyframes carousel{
+		0%{left:0;}
+		5%{left:0;}
+		9%{left: -167px;}
+		14%{left: -167px;}
+		18%{left: -334px;}
+		23%{left: -334px;}
+		27%{left: -501px;}
+		32%{left: -501px;}
+		36%{left: -668px;}
+		41%{left: -668px;}
+		45%{left: -836px;}
+		50%{left: -836px;}
+		54%{left: -1003px;}
+		59%{left: -1003px;}
+		63%{left: -1170px;}
+		68%{left: -1170px;}
+		72%{left: -1337px;}
+		77%{left: -1337px;}
+		81%{left: -1504px;}
+		86%{left: -1504px;}
+		90%{left: -1671px;}
+		95%{left: -1671px;}
+		99%{left: -1838px;}
+		100%{left: -1838px;}
+}
+@-webkit-keyframes carousel{
+	0%{left:0;}
+	5%{left:0;}
+	9%{left: -167px;}
+	14%{left: -167px;}
+	18%{left: -334px;}
+	23%{left: -334px;}
+	27%{left: -501px;}
+	32%{left: -501px;}
+	36%{left: -668px;}
+	41%{left: -668px;}
+	45%{left: -836px;}
+	50%{left: -836px;}
+	54%{left: -1003px;}
+	59%{left: -1003px;}
+	63%{left: -1170px;}
+	68%{left: -1170px;}
+	72%{left: -1337px;}
+	77%{left: -1337px;}
+	81%{left: -1504px;}
+	86%{left: -1504px;}
+	90%{left: -1671px;}
+	95%{left: -1671px;}
+	99%{left: -1838px;}
+	100%{left: -1838px;}
+}
+@-moz-keyframes carousel{
+	0%{left:0;}
+	5%{left:0;}
+	9%{left: -167px;}
+	14%{left: -167px;}
+	18%{left: -334px;}
+	23%{left: -334px;}
+	27%{left: -501px;}
+	32%{left: -501px;}
+	36%{left: -668px;}
+	41%{left: -668px;}
+	45%{left: -836px;}
+	50%{left: -836px;}
+	54%{left: -1003px;}
+	59%{left: -1003px;}
+	63%{left: -1170px;}
+	68%{left: -1170px;}
+	72%{left: -1337px;}
+	77%{left: -1337px;}
+	81%{left: -1504px;}
+	86%{left: -1504px;}
+	90%{left: -1671px;}
+	95%{left: -1671px;}
+	99%{left: -1838px;}
+	100%{left: -1838px;}
+}
+@-o-keyframes carousel{
+	0%{left:0;}
+	5%{left:0;}
+	9%{left: -167px;}
+	14%{left: -167px;}
+	18%{left: -334px;}
+	23%{left: -334px;}
+	27%{left: -501px;}
+	32%{left: -501px;}
+	36%{left: -668px;}
+	41%{left: -668px;}
+	45%{left: -836px;}
+	50%{left: -836px;}
+	54%{left: -1003px;}
+	59%{left: -1003px;}
+	63%{left: -1170px;}
+	68%{left: -1170px;}
+	72%{left: -1337px;}
+	77%{left: -1337px;}
+	81%{left: -1504px;}
+	86%{left: -1504px;}
+	90%{left: -1671px;}
+	95%{left: -1671px;}
+	99%{left: -1838px;}
+	100%{left: -1838px;}
+}
+@-ms-keyframes carousel{
+	0%{left:0;}
+	5%{left:0;}
+	9%{left: -167px;}
+	14%{left: -167px;}
+	18%{left: -334px;}
+	23%{left: -334px;}
+	27%{left: -501px;}
+	32%{left: -501px;}
+	36%{left: -668px;}
+	41%{left: -668px;}
+	45%{left: -836px;}
+	50%{left: -836px;}
+	54%{left: -1003px;}
+	59%{left: -1003px;}
+	63%{left: -1170px;}
+	68%{left: -1170px;}
+	72%{left: -1337px;}
+	77%{left: -1337px;}
+	81%{left: -1504px;}
+	86%{left: -1504px;}
+	90%{left: -1671px;}
+	95%{left: -1671px;}
+	99%{left: -1838px;}
+	100%{left: -1838px;}
+}
+
+@keyframes carousel_edificio{
+	0%{left:0;}
+	10%{left: 0;}
+	15%{left:-256px;}
+	25%{left: -256px;}
+	30%{left: -512px;}
+	40%{left: -512px;}
+	45%{left: -768px;}
+	55%{left: -768px;}
+	60%{left: -1024px;}
+	70%{left: -1024px;}
+	75%{left: -1280px;}
+	85%{left: -1280px;}
+	90%{left: -1536px;}
+	100%{left: -1536px;}
+}	
+@-webkit-keyframes carousel_edificio{
+	0%{left:0;}
+	10%{left: 0;}
+	15%{left:-256px;}
+	25%{left: -256px;}
+	30%{left: -512px;}
+	40%{left: -512px;}
+	45%{left: -768px;}
+	55%{left: -768px;}
+	60%{left: -1024px;}
+	70%{left: -1024px;}
+	75%{left: -1280px;}
+	85%{left: -1280px;}
+	90%{left: -1536px;}
+	100%{left: -1536px;}
+}
+@-moz-keyframes carousel_edificio{
+	0%{left:0;}
+	10%{left: 0;}
+	15%{left:-256px;}
+	25%{left: -256px;}
+	30%{left: -512px;}
+	40%{left: -512px;}
+	45%{left: -768px;}
+	55%{left: -768px;}
+	60%{left: -1024px;}
+	70%{left: -1024px;}
+	75%{left: -1280px;}
+	85%{left: -1280px;}
+	90%{left: -1536px;}
+	100%{left: -1536px;}
+}
+@-o-keyframes carousel_edificio{
+	0%{left:0;}
+	10%{left: 0;}
+	15%{left:-256px;}
+	25%{left: -256px;}
+	30%{left: -512px;}
+	40%{left: -512px;}
+	45%{left: -768px;}
+	55%{left: -768px;}
+	60%{left: -1024px;}
+	70%{left: -1024px;}
+	75%{left: -1280px;}
+	85%{left: -1280px;}
+	90%{left: -1536px;}
+	100%{left: -1536px;}
+}
+@-ms-keyframes carousel_edificio{
+	0%{left:0;}
+	10%{left: 0;}
+	15%{left:-256px;}
+	25%{left: -256px;}
+	30%{left: -512px;}
+	40%{left: -512px;}
+	45%{left: -768px;}
+	55%{left: -768px;}
+	60%{left: -1024px;}
+	70%{left: -1024px;}
+	75%{left: -1280px;}
+	85%{left: -1280px;}
+	90%{left: -1536px;}
+	100%{left: -1536px;}
+}
+
+
+
+
+
+
+
+
+
+
